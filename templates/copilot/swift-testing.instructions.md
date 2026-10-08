@@ -5,6 +5,10 @@ applyTo: "**/*Tests/**/*.swift,**/*UITests/**/*.swift"
 engineering/templates/copilot/swift-testing.instructions.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Provide adaptable Swift testing and evidence instructions.
+
 Responsibilities
 - Provide adaptable Swift testing and evidence instructions.
 

@@ -2,6 +2,10 @@
 engineering/automation/README.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Index shared automation adoption and validation guidance.
+
 Responsibilities
 - Index shared automation adoption and validation guidance.
 

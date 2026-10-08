@@ -2,6 +2,10 @@
 engineering/governance/ownership-and-exceptions.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Explain ownership, exception records, and inactive-consumer review.
+
 Responsibilities
 - Explain ownership, exception records, and inactive-consumer review.
 

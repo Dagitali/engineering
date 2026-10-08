@@ -2,6 +2,10 @@
 engineering/architecture/decision-records.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Explain durable decision records and preservation of their history.
+
 Responsibilities
 - Explain durable decision records and preservation of their history.
 

@@ -2,6 +2,10 @@
 engineering/runbooks/repository-ci-incident.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide revision-specific diagnosis and verified repository recovery.
+
 Responsibilities
 - Guide revision-specific diagnosis and verified repository recovery.
 

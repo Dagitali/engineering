@@ -2,6 +2,10 @@
 engineering/NOTICES.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Document licensing and retain attribution and stable notice links.
+
 Responsibilities
 - Document licensing and retain attribution and stable notice links.
 

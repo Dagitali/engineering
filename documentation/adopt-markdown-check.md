@@ -2,6 +2,10 @@
 engineering/documentation/adopt-markdown-check.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Demonstrate a local documentation check and deliberate failure recovery.
+
 Responsibilities
 - Demonstrate a local documentation check and deliberate failure recovery.
 

@@ -2,6 +2,10 @@
 engineering/automation/repository-policy.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide selection and verification of consumer-owned repository checks.
+
 Responsibilities
 - Guide selection and verification of consumer-owned repository checks.
 
@@ -21,6 +25,7 @@ consumer policy.
 
 ## Select and Configure
 
+Use [configuration contracts] to review defaults, precedence, path resolution, and unknown keys.
 Define each check's inputs, discovery scope, configuration, expected diagnostics, exit behavior, and
 side effects. Prefer read-only checks when validation alone is required. Do not create irrelevant
 package metadata or copy language/cloud assumptions merely to satisfy a tool. Install a reviewed
@@ -47,5 +52,6 @@ audits opt-in and separate from ordinary offline checks. Record owner, tool revi
 commands, evidence, and previous known-good behavior for recovery. Use [change management] and the
 [hosted audit runbook] where applicable.
 
+[configuration contracts]: ../interfaces/configuration-contracts.md
 [change management]: ../playbooks/change-management.md
 [hosted audit runbook]: ../runbooks/hosted-settings-audit.md

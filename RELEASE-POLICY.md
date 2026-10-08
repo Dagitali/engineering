@@ -2,6 +2,10 @@
 engineering/RELEASE-POLICY.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Version classification, candidate validation, and publication boundaries.
+
 Responsibilities
 - Maintain engineering repository release policy for this repository.
 

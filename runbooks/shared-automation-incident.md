@@ -2,6 +2,10 @@
 engineering/runbooks/shared-automation-incident.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide affected-consumer assessment, recovery, and disclosure.
+
 Responsibilities
 - Guide affected-consumer assessment, recovery, and disclosure.
 

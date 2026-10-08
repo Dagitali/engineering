@@ -2,6 +2,10 @@
 engineering/templates/testflight-beta-checklist.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank testflight beta checklist for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank testflight beta checklist template.
 

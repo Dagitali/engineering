@@ -5,6 +5,10 @@ applyTo: "**/*.mmd,**/*.mermaid,**/*.md"
 engineering/templates/copilot/mermaid.instructions.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide evidence-backed diagram creation and local verification.
+
 Responsibilities
 - Guide evidence-backed diagram creation and local verification.
 

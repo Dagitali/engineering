@@ -2,6 +2,10 @@
 engineering/infrastructure/cdk-change-safety.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide resource identity, migration, and synthesis review.
+
 Responsibilities
 - Guide resource identity, migration, and synthesis review.
 

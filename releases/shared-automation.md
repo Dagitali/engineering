@@ -2,6 +2,10 @@
 engineering/releases/shared-automation.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide interface versioning and verified consumer adoption.
+
 Responsibilities
 - Guide interface versioning and verified consumer adoption.
 

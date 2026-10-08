@@ -2,6 +2,10 @@
 engineering/CONTRIBUTING.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Explain contribution terms, editing conventions, and local validation.
+
 Responsibilities
 - Explain contribution terms, editing conventions, and local validation.
 
@@ -36,6 +40,8 @@ propose reusable templates supported by demonstrated need. Explain the affected 
 canonical evidence. Keep project-specific policy and completed private records with their owners.
 
 ## First Contribution
+
+Use [developer onboarding] for a first local session and repository orientation.
 
 1. Read the README, [repository instructions], and contribution terms below. Inspect the working
    tree and preserve unrelated changes.
@@ -134,5 +140,6 @@ require task authority; documentation edits alone do not authorize them.
 [NOTICES.md]: NOTICES.md
 [security policy]: SECURITY.md
 [support guide]: SUPPORT.md
+[developer onboarding]: development/onboarding.md
 [documentation maintenance]: documentation/maintenance.md
 [GitFlow guide]: git/gitflow.md

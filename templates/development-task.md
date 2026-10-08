@@ -2,6 +2,10 @@
 engineering/templates/development-task.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank development task templates for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank development task templates template.
 

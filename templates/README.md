@@ -2,6 +2,10 @@
 engineering/templates/README.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Index blank templates and explain copying and verification.
+
 Responsibilities
 - Index blank templates and explain copying and verification.
 

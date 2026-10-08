@@ -2,6 +2,10 @@
 engineering/releases/python-packages.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide package compatibility, artifact validation, and publication evidence.
+
 Responsibilities
 - Guide package compatibility, artifact validation, and publication evidence.
 

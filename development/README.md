@@ -2,6 +2,10 @@
 engineering/development/README.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Index contributor planning, repository orientation, and review templates.
+
 Responsibilities
 - Index contributor planning, repository orientation, and review templates.
 
@@ -19,6 +23,7 @@ checkout's [contributor guide] before changing shared documentation.
 
 ## Planning and Execution
 
+- [Developer onboarding]: Orient contributors to this checkout and its validation boundaries.
 - [Agent assisted workflow]: Ground decisions, prepare a task, and verify implementation.
 - [Task templates]: Select a blank brief for implementation, review, or diagnosis.
 - [Onboarding template]: Record local prerequisites, repository orientation, and safe learning.
@@ -38,3 +43,4 @@ checkout's [contributor guide] before changing shared documentation.
 [Task templates]: ../templates/development-task.md
 [Testing index]: ../testing/README.md
 [Agent assisted workflow]: agent-assisted-workflow.md
+[Developer onboarding]: onboarding.md

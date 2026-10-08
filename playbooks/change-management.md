@@ -2,6 +2,10 @@
 engineering/playbooks/change-management.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide compatibility decisions and synchronized validation and release.
+
 Responsibilities
 - Guide compatibility decisions and synchronized validation and release.
 

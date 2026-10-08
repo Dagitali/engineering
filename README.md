@@ -2,6 +2,10 @@
 engineering/README.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Index shared engineering guidance and clarify adoption boundaries.
+
 Responsibilities
 - Index shared engineering guidance and clarify adoption boundaries.
 
@@ -27,6 +31,7 @@ release policy, and hosted settings.
 
 ## Start Here
 
+- [Developer onboarding]
 - [Development workflow]
 - [Documentation maintenance]
 - [Change management]
@@ -76,6 +81,9 @@ scaffolding] to plan a minimal project baseline and its readiness review.
 - [CDK change safety](infrastructure/cdk-change-safety.md)
 - [Tooling lessons](learnings/python-and-repository-tooling.md)
 
+Read [Architecture] for ownership and adoption flow, [Design] for content constraints, and
+[Learnings] for reusable diagnosed failures.
+
 ## Repository Map
 
 | Area | Purpose |
@@ -112,10 +120,13 @@ do not establish external availability, hosted enforcement, or publication. Brow
 index] for bounded operational procedures and the [playbook index] for change planning.
 
 [repository instructions]: AGENTS.md
+[Architecture]: ARCHITECTURE.md
 [Changelog]: CHANGELOG.md
 [Code of Conduct]: CODE_OF_CONDUCT.md
 [contributor guide]: CONTRIBUTING.md
 [validation procedure]: CONTRIBUTING.md#validation
+[Design]: DESIGN.md
+[Learnings]: LEARNINGS.md
 [MIT License]: LICENSE
 [NOTICE]: NOTICE
 [Source notices]: NOTICES.md
@@ -127,6 +138,7 @@ index] for bounded operational procedures and the [playbook index] for change pl
 [Automation]: automation/README.md
 [development index]: development/README.md
 [Development workflow]: development/agent-assisted-workflow.md
+[Developer onboarding]: development/onboarding.md
 [Documentation index]: documentation/README.md
 [adoption tutorial]: documentation/adopt-markdown-check.md
 [Documentation maintenance]: documentation/maintenance.md

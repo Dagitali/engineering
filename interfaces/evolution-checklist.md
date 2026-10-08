@@ -2,6 +2,10 @@
 engineering/interfaces/evolution-checklist.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide public-interface compatibility and migration review.
+
 Responsibilities
 - Guide public-interface compatibility and migration review.
 

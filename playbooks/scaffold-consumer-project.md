@@ -2,6 +2,10 @@
 engineering/playbooks/scaffold-consumer-project.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide a minimal consumer baseline and review its readiness boundaries.
+
 Responsibilities
 - Guide a minimal consumer baseline and review its readiness boundaries.
 
