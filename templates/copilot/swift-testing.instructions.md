@@ -5,6 +5,9 @@ applyTo: "**/*Tests/**/*.swift,**/*UITests/**/*.swift"
 engineering/templates/copilot/swift-testing.instructions.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide adaptable Swift testing and evidence instructions.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

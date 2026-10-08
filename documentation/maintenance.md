@@ -2,6 +2,9 @@
 engineering/documentation/maintenance.md
 Dagitali organization documentation
 
+Responsibilities
+- Explain source-of-truth review and documentation verification.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
@@ -15,6 +18,7 @@ release records remain with their projects.
 - [Sources of Truth](#sources-of-truth)
 - [Change Procedure](#change-procedure)
 - [Verification](#verification)
+- [Completion Evidence](#completion-evidence)
 
 ## Sources of Truth
 
@@ -36,10 +40,11 @@ referenced by other guides; retain a local adapter when centralizing a procedure
 historical outcomes to imply current verification.
 
 Use descriptive reference labels, grouped at the bottom and sorted case-sensitively by destination,
-then label. Prefer relative links within a repository. Keep official names, useful tables of
-contents, and attribution. Wrap file-header comment lines at 79 characters; preserve language
-directives and URLs. Do not edit generated documentation, caches, distributions, or lockfiles as
-handwritten prose.
+then label. Keep compact, one-use navigation links inline when reference definitions would
+excessively lengthen a dense catalog. Prefer relative links within a repository. Keep official
+names, useful tables of contents, and attribution. Wrap file-header comment lines at 79 characters;
+preserve language directives and URLs. Do not edit generated documentation, caches, distributions,
+or lockfiles as handwritten prose.
 
 ## Verification
 
@@ -48,9 +53,19 @@ labels, images, external destinations, and factual claims. Run the documentation
 sources or included documents change. A local link check does not establish external availability,
 hosted enforcement, clean installation, or publication.
 
-Use the [evidence inventory](../templates/evidence-inventory.md) for material claims requiring a
-fuller record, not as a mandatory gate for every small edit. Store confidential completed records in
-an access-controlled system; public statements link only to evidence their audience may inspect.
+Use the [evidence inventory] for material claims requiring a fuller record, not as a mandatory gate
+for every small edit. Store confidential completed records in an access-controlled system; public
+statements link only to evidence their audience may inspect.
 
 A documentation task does not authorize changing implementation or external state to make a claim
 true. Report discrepancies requiring a separate implementation decision.
+
+## Completion Evidence
+
+Report created and updated files, canonical sources supporting major claims, exact commands and
+results, and failed or skipped checks with reasons. State whether public behavior is affected and
+identify remaining discrepancies, owners, or follow-up work. Distinguish current-checkout results
+from historical, hosted, and publication evidence. Keep confidential details restricted and make
+public claims inspectable by their intended audience.
+
+[evidence inventory]: ../templates/evidence-inventory.md

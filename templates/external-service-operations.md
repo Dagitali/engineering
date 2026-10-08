@@ -2,6 +2,9 @@
 engineering/templates/external-service-operations.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank external service operations template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

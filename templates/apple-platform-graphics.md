@@ -2,6 +2,9 @@
 engineering/templates/apple-platform-graphics.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank apple platform graphics template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

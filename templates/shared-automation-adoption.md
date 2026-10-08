@@ -2,6 +2,9 @@
 engineering/templates/shared-automation-adoption.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank shared automation adoption template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
@@ -10,6 +13,11 @@ Maintainer Notes
 
 Complete in the consumer's maintainer records. Keep private hosted settings and vulnerability
 details restricted.
+
+- [Adoption Record](#adoption-record)
+- [Review Boundaries](#review-boundaries)
+
+## Adoption Record
 
 | Field | Record |
 | --- | --- |
@@ -25,6 +33,8 @@ details restricted.
 | Prior known-good revision and rollback | |
 | Passed, failed, skipped, inaccessible, outstanding evidence | |
 | Follow-up owner and next review | |
+
+## Review Boundaries
 
 Mark unsupported or unverified behavior explicitly. Adoption of defaults, copied starters, and
 shared references are distinct operations. A checklist does not authorize hosted writes or consumer

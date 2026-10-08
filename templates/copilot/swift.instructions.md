@@ -5,6 +5,9 @@ applyTo: "**/*.swift"
 engineering/templates/copilot/swift.instructions.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide adaptable Swift source and documentation instructions.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

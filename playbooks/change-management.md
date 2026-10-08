@@ -2,6 +2,9 @@
 engineering/playbooks/change-management.md
 Dagitali organization documentation
 
+Responsibilities
+- Guide compatibility decisions and synchronized validation and release.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
@@ -36,10 +39,12 @@ configuration, content, monitoring, budgets, and product-specific policy.
 
 ## Synchronize and Release
 
-Use the [interface checklist](../interfaces/evolution-checklist.md), project impact map, and
-[documentation maintenance](../documentation/maintenance.md). Update changed claims during
-implementation. Record material alternatives in an architecture decision and reusable diagnosed
-failures in a runbook.
+Use the [interface checklist], project impact map, and [documentation maintenance]. Update changed
+claims during implementation. Record material alternatives in an architecture decision and reusable
+diagnosed failures in a runbook.
 
 Use the project's release procedure to assess the complete diff, compatibility, migration, artifact
 identity, and recovery. Report local checks, hosted checks, and publication as separate outcomes.
+
+[documentation maintenance]: ../documentation/maintenance.md
+[interface checklist]: ../interfaces/evolution-checklist.md

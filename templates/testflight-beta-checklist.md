@@ -2,6 +2,9 @@
 engineering/templates/testflight-beta-checklist.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank testflight beta checklist template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

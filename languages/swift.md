@@ -2,6 +2,9 @@
 engineering/languages/swift.md
 Dagitali organization documentation
 
+Responsibilities
+- Describe Swift structure, testability, and persistence practices.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
@@ -13,15 +16,26 @@ types for pure state, actors for mutable asynchronous state, and narrow protocol
 persistence, or network boundaries that benefit from substitution. Avoid unnecessary protocols and
 generics for simple calculations.
 
+- [Declaration Organization](#declaration-organization)
+- [SwiftUI Structure and Accessibility](#swiftui-structure-and-accessibility)
+- [Testability, Privacy, and Persistence](#testability-privacy-and-persistence)
+- [Instruction Templates](#instruction-templates)
+
+## Declaration Organization
+
 Group declarations by responsibility: nested types, stored properties, computed API, initializers,
 methods, related static API, then private helpers. Enum cases generally precede
 identity/display/query behavior. Alphabetical order may suit lookup tables; do not mechanically
 alphabetize mixed API surfaces.
 
+## SwiftUI Structure and Accessibility
+
 Order SwiftUI views as environment, inputs, state, body, extracted views, actions, and
 formatting/private helpers. Keep views declarative and business rules testable. Use the project's
 design tokens and accessible controls. Preserve DocC contracts, meaningful MARK sections, and
 supported platform behavior.
+
+## Testability, Privacy, and Persistence
 
 Avoid force unwraps and unchecked production casts. Inject clocks, services, persistence, and
 diagnostics where deterministic behavior matters. Keep privacy-sensitive data out of fixtures and
@@ -29,5 +43,10 @@ logs. For persisted models, preserve historical schemas and introduce explicit m
 CloudKit-compatible relationships and conflict behavior require project-specific tests and manual
 device evidence.
 
-Use the [Swift instructions template](../templates/copilot/swift.instructions.md) and
-[testing template](../templates/copilot/swift-testing.instructions.md), installing project-specific globs locally.
+## Instruction Templates
+
+Use the [Swift instructions template] and [testing template], installing project-specific globs
+locally.
+
+[testing template]: ../templates/copilot/swift-testing.instructions.md
+[Swift instructions template]: ../templates/copilot/swift.instructions.md

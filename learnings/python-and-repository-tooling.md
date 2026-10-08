@@ -2,6 +2,9 @@
 engineering/learnings/python-and-repository-tooling.md
 Dagitali organization documentation
 
+Responsibilities
+- Retain reusable tooling lessons without project-specific contracts.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
@@ -22,4 +25,6 @@ commands and historical incident evidence in local learnings and runbooks.
 | Documentation promises the wrong behavior | Policy was copied from another project | Trace canonical sources and retain purposeful consumer differences |
 
 A passing checker proves only its implemented scope. Local tests do not establish hosted enforcement
-or publication. Use the [incident runbook](../runbooks/repository-ci-incident.md) for recovery.
+or publication. Use the [incident runbook] for recovery.
+
+[incident runbook]: ../runbooks/repository-ci-incident.md

@@ -2,6 +2,9 @@
 engineering/automation/README.md
 Dagitali organization documentation
 
+Responsibilities
+- Index shared automation adoption and validation guidance.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

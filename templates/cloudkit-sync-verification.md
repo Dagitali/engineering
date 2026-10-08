@@ -2,6 +2,9 @@
 engineering/templates/cloudkit-sync-verification.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank cloudkit sync verification template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
