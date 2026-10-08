@@ -12,6 +12,7 @@ Maintainer Notes
 # Engineering Templates
 
 - [Using Templates](#using-templates)
+- [Updating Adopted Templates](#updating-adopted-templates)
 - [Repository Instructions](#repository-instructions)
 - [Development and Review](#development-and-review)
 - [Verification Records](#verification-records)
@@ -29,6 +30,17 @@ Copy the selected template into the consuming project, replace explicit fields, 
 inapplicable guidance. Verify local destinations, installed instruction paths/globs, and the
 project's actual commands before use. Keep source templates blank in this checkout and store
 completed records with their owner.
+
+## Updating Adopted Templates
+
+Record the source path and copied commit or tag in the consuming project. Compare that revision with
+the proposed update, review compatibility and replacement fields, and preserve intentional local
+adaptations. Updating this collection does not update existing copies.
+
+Apply the smallest reviewed change, verify local links, installed paths and globs, and actual
+commands, then run the consuming project’s relevant checks. Record the resulting source revision,
+validation, and recovery reference with that project. Keep completed adoption records outside this
+checkout.
 
 ## Repository Instructions
 
