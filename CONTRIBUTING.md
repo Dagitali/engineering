@@ -74,10 +74,11 @@ definition for repeated destinations. Keep compact, one-use navigation links inl
 a dense catalog would add excessive definition lines. Group definitions at the bottom and sort by
 destination exactly as written (case-sensitive), then by label. Preserve destination casing,
 fragments, and encoding. Keep table-of-contents anchors inline and literal link syntax in fenced
-examples unchanged. Keep file-header comment lines within 79 characters. Templates retain explicit
-replacement fields; maintained guides should contain actual instructions and links. Run Markdown
-destination/anchor and reference checks; inspect external claims separately. Update README
-navigation for new topics.
+examples unchanged. Keep file-header comment lines within 79 characters. Include the copyright line
+and a short description specified by [documentation maintenance], preserving front matter and source
+notices. Templates retain explicit replacement fields; maintained guides should contain actual
+instructions and links. Run Markdown destination/anchor and reference checks; inspect external
+claims separately. Update README navigation for new topics.
 
 Use repository-relative links for local documents and verified canonical URLs for shared resources.
 Keep reusable guidance independent of its originating project. Examples should use replacement
