@@ -36,10 +36,11 @@ referenced by other guides; retain a local adapter when centralizing a procedure
 historical outcomes to imply current verification.
 
 Use descriptive reference labels, grouped at the bottom and sorted case-sensitively by destination,
-then label. Prefer relative links within a repository. Keep official names, useful tables of
-contents, and attribution. Wrap file-header comment lines at 79 characters; preserve language
-directives and URLs. Do not edit generated documentation, caches, distributions, or lockfiles as
-handwritten prose.
+then label. Keep compact, one-use navigation links inline when reference definitions would
+excessively lengthen a dense catalog. Prefer relative links within a repository. Keep official
+names, useful tables of contents, and attribution. Wrap file-header comment lines at 79 characters;
+preserve language directives and URLs. Do not edit generated documentation, caches, distributions,
+or lockfiles as handwritten prose.
 
 ## Verification
 

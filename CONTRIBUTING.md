@@ -16,7 +16,8 @@ external contributions or publication.
 
 Use descriptive headings, relative links within this checkout, and sorted bottom reference
 definitions. Use descriptive reference labels for document and external-resource links, reusing a
-definition for repeated destinations. Group definitions at the bottom of each file and sort by
+definition for repeated destinations. Keep compact, one-use navigation links inline when converting
+a dense catalog would add excessive definition lines. Group definitions at the bottom and sort by
 destination exactly as written (case-sensitive), then by label. Preserve destination casing,
 fragments, and encoding. Keep table-of-contents anchors inline and literal link syntax in fenced
 examples unchanged. Keep file-header comment lines within 79 characters. Templates retain explicit
