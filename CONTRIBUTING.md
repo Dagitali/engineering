@@ -12,6 +12,7 @@ Maintainer Notes
 # Contributing to Organization Documentation
 
 - [Before You Begin](#before-you-begin)
+- [First Contribution](#first-contribution)
 - [Contribution Terms](#contribution-terms)
 - [Documentation Conventions](#documentation-conventions)
 - [Local Setup and Hooks](#local-setup-and-hooks)
@@ -25,6 +26,18 @@ changes, describe the affected guidance and rationale in an existing relevant di
 pull request for maintainer review. Use the repository's available contribution channels; this guide
 establishes no new reporting service. Read the owning project's instructions when a proposal affects
 its contracts, and use its private reporting route for suspected vulnerabilities.
+
+## First Contribution
+
+1. Read the README, [repository instructions], and contribution terms below. Inspect the working
+   tree and preserve unrelated changes.
+2. Use an authorized checkout and create a topic branch from the repository's agreed base branch.
+   Follow its naming and review policy; the shared GitFlow option is not a required branch model.
+3. Make a focused edit using the documentation conventions below. Keep templates blank and preserve
+   notices, existing anchors, and historical evidence.
+4. Follow [local setup] and [validation], inspect the diff, and record results and skipped checks.
+5. When submission is authorized, open a PR against the agreed base branch using the [PR guidance].
+   Use a draft for early feedback and address review findings.
 
 ## Contribution Terms
 
@@ -99,6 +112,9 @@ require task authority; documentation edits alone do not authorize them.
 
 [hook configuration]: .pre-commit-config.yaml
 [repository instructions]: AGENTS.md
+[local setup]: CONTRIBUTING.md#local-setup-and-hooks
+[PR guidance]: CONTRIBUTING.md#pull-requests
+[validation]: CONTRIBUTING.md#validation
 [NOTICES.md]: NOTICES.md
 [documentation maintenance]: documentation/maintenance.md
 [GitFlow guide]: git/gitflow.md

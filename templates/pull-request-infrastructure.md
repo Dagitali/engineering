@@ -18,6 +18,7 @@ checks.
 - [Compatibility and Infrastructure](#compatibility-and-infrastructure)
 - [Validation](#validation)
 - [Documentation and Delivery](#documentation-and-delivery)
+- [Deployment and Rollback](#deployment-and-rollback)
 - [Checklist](#checklist)
 
 ## Summary and Scope
@@ -37,6 +38,15 @@ hosted, failed/skipped checks and reasons>`.
 ## Documentation and Delivery
 
 `<Updated contracts/examples/decisions/changelog, delivery effect, approved operational steps>`.
+
+## Deployment and Rollback
+
+`<Deployment/publication effect or explicit none, configuration changes, resource replacements, data
+migrations, expected interruption, separately approved operations, prior safe revision/state,
+rollback or forward-fix steps, recovery owner, and verification>`. Cross-reference compatibility
+impacts above. Identify irreversible effects and retained-state requirements; restoring code alone
+may not restore replaced resources or migrated data. Keep private account and operational details in
+restricted records.
 
 ## Checklist
 
