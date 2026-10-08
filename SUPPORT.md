@@ -12,15 +12,25 @@ Maintainer Notes
 # Support
 
 - [Support Boundary](#support-boundary)
+  - [Supported Surface](#supported-surface)
+  - [Supported Revisions](#supported-revisions)
 - [Where to Get Help](#where-to-get-help)
 - [What to Include](#what-to-include)
 - [Maintenance Expectations](#maintenance-expectations)
 
 ## Support Boundary
 
+### Supported Surface
+
 This repository provides engineering guidance and blank templates. It does not operate consuming
 products or guarantee that copied instructions match a project's current tools or contracts.
+
+### Supported Revisions
+
 Identify the adopted commit or tag when requesting help; review changes before updating a copy.
+Current guidance describes the current source. Historical records describe their own revisions and
+may have different terms or instructions. The [release archive] preserves those boundaries; a
+historical tag does not imply an ongoing support commitment.
 
 ## Where to Get Help
 
@@ -45,3 +55,4 @@ review and release records; project-specific support remains with the consuming 
 [README]: README.md
 [release policy]: RELEASE-POLICY.md
 [security policy]: SECURITY.md
+[release archive]: releases/history/README.md
