@@ -35,6 +35,7 @@ or hosted enforcement.
 
 ## Related Guidance
 
+Use [configuration contracts] when documenting inputs, defaults, paths, and failure behavior.
 Use the [template index] for reusable forms, [architecture index] for decision recording, and
 [release policy] for changes to this repository.
 
@@ -43,6 +44,7 @@ Use the [template index] for reusable forms, [architecture index] for decision r
 [repository overview]: ../README.md
 [release policy]: ../RELEASE-POLICY.md
 [architecture index]: ../architecture/README.md
+[configuration contracts]: ../interfaces/configuration-contracts.md
 [release archive]: ../releases/history/README.md
 [template index]: ../templates/README.md
 [adoption tutorial]: adopt-markdown-check.md

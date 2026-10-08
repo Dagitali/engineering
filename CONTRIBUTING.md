@@ -37,6 +37,8 @@ canonical evidence. Keep project-specific policy and completed private records w
 
 ## First Contribution
 
+Use [developer onboarding] for a first local session and repository orientation.
+
 1. Read the README, [repository instructions], and contribution terms below. Inspect the working
    tree and preserve unrelated changes.
 2. Use an authorized checkout and create a topic branch from the repository's agreed base branch.
@@ -134,5 +136,6 @@ require task authority; documentation edits alone do not authorize them.
 [NOTICES.md]: NOTICES.md
 [security policy]: SECURITY.md
 [support guide]: SUPPORT.md
+[developer onboarding]: development/onboarding.md
 [documentation maintenance]: documentation/maintenance.md
 [GitFlow guide]: git/gitflow.md

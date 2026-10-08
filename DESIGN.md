@@ -31,7 +31,8 @@ Use the [interface checklist] and [release policy] when adoption behavior change
 
 ## Configuration Strategy
 
-This collection has no universal consumer configuration schema. Templates expose replacement fields;
+Use [configuration contract guidance] to review inputs, defaults, paths, and migration. This
+collection has no universal consumer configuration schema. Templates expose replacement fields;
 consumers own installed paths, globs, tool versions, commands, and workflow settings. Keep examples
 neutral and copy only what a demonstrated requirement needs. Local hooks describe this checkout, not
 a required consumer setup.
@@ -54,5 +55,6 @@ purposeful local differences. [Architecture] describes this collection’s organ
 [learnings]: LEARNINGS.md
 [release policy]: RELEASE-POLICY.md
 [decision guidance]: architecture/decision-records.md
+[configuration contract guidance]: interfaces/configuration-contracts.md
 [interface checklist]: interfaces/evolution-checklist.md
 [testing guidance]: testing/README.md

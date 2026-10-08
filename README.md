@@ -27,6 +27,7 @@ release policy, and hosted settings.
 
 ## Start Here
 
+- [Developer onboarding]
 - [Development workflow]
 - [Documentation maintenance]
 - [Change management]
@@ -133,6 +134,7 @@ index] for bounded operational procedures and the [playbook index] for change pl
 [Automation]: automation/README.md
 [development index]: development/README.md
 [Development workflow]: development/agent-assisted-workflow.md
+[Developer onboarding]: development/onboarding.md
 [Documentation index]: documentation/README.md
 [adoption tutorial]: documentation/adopt-markdown-check.md
 [Documentation maintenance]: documentation/maintenance.md
