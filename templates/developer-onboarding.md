@@ -1,0 +1,29 @@
+<!--
+engineering/templates/developer-onboarding.md
+Dagitali organization documentation
+
+Maintainer Notes
+- Keep shared guidance independent of any originating project.
+-->
+
+# Developer Onboarding Template
+
+Complete prerequisites and commands from the consuming repository's actual configuration.
+
+## Prerequisites
+
+`<Git, shell/build tools, supported runtime authority, platform requirements, install/network boundaries>`.
+
+## First Local Session
+
+1. Read `<instructions, overview, architecture, design, contribution guide>`.
+2. Inspect the working tree and preserve unrelated work.
+3. Use `<documented setup>` in an appropriate isolated environment.
+4. Inspect `<environment report>` and run `<quality gate>`.
+5. Learn with `<small deterministic example>`; do not use production data or deploy as a learning shortcut.
+
+## Contribution
+
+`<Branch routing, review, focused checks, affected documentation, local terms, support route>`.
+Record skipped checks and evidence limits. Installing hooks, dependencies, or tools is an explicit setup
+step, not an implicit side effect of validation.
