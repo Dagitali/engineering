@@ -10,27 +10,42 @@ Responsibilities
 - Maintain changelog for this repository.
 
 Maintainer Notes
+- Preserve released entries and group pending changes under Unreleased.
 - Keep shared guidance independent of any originating project.
 -->
 
 # Changelog
 
+This file records concise, user-visible changes to shared guidance and templates. The [release notes
+archive] indexes detailed scope, compatibility, validation evidence, and release status. The
+[release policy] owns version classification and compatibility review.
+
 Entries summarize local Git evidence. Dates for existing versions are annotated-tag creation dates
-in America/New_York, not verified publication dates.
+in America/New_York, not verified publication dates. Changes after the latest tag remain under
+Unreleased until assigned to a reviewed release.
 
 - [Unreleased](#unreleased)
-- [Initial Customization](#initial-customization)
-- [Initial Collection](#initial-collection)
+- [\[0.1.0\] - 2026-10-08](#010---2026-10-08)
+  - [Initial Customization](#initial-customization)
+- [\[0.0.0\] - 2026-10-08](#000---2026-10-08)
+  - [Initial Collection](#initial-collection)
 
 ## Unreleased
 
 - Added repository-wide MIT licensing and project attribution after `v0.1.0`.
 
+- Added support, security, conduct, and release policies, with evidence-bounded historical records.
+- Added architecture, design, and learnings overviews, generic adoption and release playbooks,
+  contributor onboarding, and configuration-contract guidance.
+- Expanded testing-layer, dependency-boundary, workflow-responsibility, and hosted-audit guidance.
+- Improved repository navigation and guidance for updating adopted templates while preserving
+  consumer-owned contracts, blank source templates, and historical evidence.
+
 Further working-tree proposals become release history only after review and integration.
 
-## Initial Customization
+## [0.1.0] - 2026-10-08
 
-Version: `0.1.0`. Tag date: 2026-10-08.
+### Initial Customization
 
 - Normalized Markdown structure and reference links.
 - Added topic indexes, an adoption tutorial, consumer scaffolding guidance, and a reference library.
@@ -38,13 +53,15 @@ Version: `0.1.0`. Tag date: 2026-10-08.
 
 See the [0.1.0 record] for evidence boundaries.
 
-## Initial Collection
+## [0.0.0] - 2026-10-08
 
-Version: `0.0.0`. Tag date: 2026-10-08.
+### Initial Collection
 
 - Initial engineering guidance and blank-template collection.
 
 See the [0.0.0 record] for evidence boundaries.
 
+[release policy]: RELEASE-POLICY.md
+[release notes archive]: releases/history/README.md
 [0.0.0 record]: releases/history/v0.0.0.md
 [0.1.0 record]: releases/history/v0.1.0.md
