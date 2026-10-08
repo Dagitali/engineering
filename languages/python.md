@@ -27,5 +27,6 @@ deliberate compatibility decision.
 Keep source layout and dependency metadata canonical. For projects using setuptools-scm, derive
 versions from Git rather than adding another version source. Pair supported dependency lower bounds
 with their compatibility fixtures. Normal unit tests should not need network access, credentials, or
-deployment. Use [Python testing](../testing/python.md) and the project's documented contributor
-commands.
+deployment. Use [Python testing] and the project's documented contributor commands.
+
+[Python testing]: ../testing/python.md

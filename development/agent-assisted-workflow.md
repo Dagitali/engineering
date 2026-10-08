@@ -35,8 +35,8 @@ implementation change.
 ## Prepare the Handoff
 
 Record the desired outcome, relevant paths, observed behavior, alternatives, constraints, acceptance
-criteria, and validation plan. Use the [task template](../templates/development-task.md). Keep
-private source, credentials, and confidential diagnostics out of public briefs.
+criteria, and validation plan. Use the [task template]. Keep private source, credentials, and
+confidential diagnostics out of public briefs.
 
 ## Execute and Verify
 
@@ -44,9 +44,12 @@ private source, credentials, and confidential diagnostics out of public briefs.
 2. Implement one coherent change while preserving local contracts and purposeful policy differences.
 3. Run focused checks, then the project's applicable quality gate. Packaging needs artifact and
    clean-install evidence; synthesis and source tests do not prove deployed or signed behavior.
-4. Follow [documentation maintenance](../documentation/maintenance.md) to update affected explanations.
+4. Follow [documentation maintenance] to update affected explanations.
 5. Review the diff for unrelated edits, generated output, private data, and stale claims.
 6. Report changed files, evidence, passed/failed/skipped checks, and outstanding work.
 
 Record durable decisions and reusable failures where the project maintains them. Repository edits do
 not implicitly authorize commits, tags, publication, hosted settings changes, or deployment.
+
+[documentation maintenance]: ../documentation/maintenance.md
+[task template]: ../templates/development-task.md

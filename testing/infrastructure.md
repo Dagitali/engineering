@@ -19,5 +19,7 @@ deployed behavior, permissions, drift, service availability, or cleanup success.
 
 Keep normal CI free of deployment credentials. Optional security, package-installation, and
 cloud-deployment suites remain explicit when their dependencies or side effects differ. Use
-[disposable cloud tests](disposable-cloud-tests.md) for an authorized bounded operational check;
+[disposable cloud tests] for an authorized bounded operational check;
 consumer account, identity, domains, monitoring, and rollback remain consumer-owned.
+
+[disposable cloud tests]: disposable-cloud-tests.md

@@ -25,6 +25,9 @@ automated tests.
 
 Separate invited-beta acceptance from public-release readiness. Record deferred checks with decision
 date, owner, accepted risk, tester guidance, and completion milestone; a waiver is not a pass. Use
-the [release checklist](../templates/apple-app-release-checklist.md), [TestFlight
-checklist](../templates/testflight-beta-checklist.md), and [metadata
-template](../templates/app-store-metadata.md). Follow the app's local release policy for delivery.
+the [release checklist], [TestFlight checklist], and [metadata template]. Follow the app's local
+release policy for delivery.
+
+[metadata template]: ../templates/app-store-metadata.md
+[release checklist]: ../templates/apple-app-release-checklist.md
+[TestFlight checklist]: ../templates/testflight-beta-checklist.md

@@ -25,5 +25,6 @@ separate verification. Completed records with private details belong in restrict
 For inactive consumers, record maintenance status, owner availability, adopted revision, outstanding
 findings, and disclosure/update expectations. Inactivity does not authorize disabling workflows,
 archiving repositories, or deleting evidence. Track known migrations separately from unknown
-adoption. Use the [inventory template](../templates/consumer-inventory.md) and the component's local
-release policy.
+adoption. Use the [inventory template] and the component's local release policy.
+
+[inventory template]: ../templates/consumer-inventory.md

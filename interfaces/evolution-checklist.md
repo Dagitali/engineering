@@ -27,5 +27,6 @@ without changing its command name.
 - Report evidence, limitations, migration, and rollback; do not invent support guarantees.
 
 Keep concrete API names, CLI dispatch cases, synthesis assertions, and validation commands in the
-project. Use its [change impact map template](../templates/change-impact-map.md) structure to
-identify the complete scope.
+project. Use its [change impact map template] structure to identify the complete scope.
+
+[change impact map template]: ../templates/change-impact-map.md

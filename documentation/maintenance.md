@@ -48,9 +48,11 @@ labels, images, external destinations, and factual claims. Run the documentation
 sources or included documents change. A local link check does not establish external availability,
 hosted enforcement, clean installation, or publication.
 
-Use the [evidence inventory](../templates/evidence-inventory.md) for material claims requiring a
-fuller record, not as a mandatory gate for every small edit. Store confidential completed records in
-an access-controlled system; public statements link only to evidence their audience may inspect.
+Use the [evidence inventory] for material claims requiring a fuller record, not as a mandatory gate
+for every small edit. Store confidential completed records in an access-controlled system; public
+statements link only to evidence their audience may inspect.
 
 A documentation task does not authorize changing implementation or external state to make a claim
 true. Report discrepancies requiring a separate implementation decision.
+
+[evidence inventory]: ../templates/evidence-inventory.md

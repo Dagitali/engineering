@@ -35,6 +35,8 @@ consumer differences.
 Use the same documented invocation locally and in CI. Distinguish tool-format validation from the
 safety of inspected code, and declared policy from hosted enforcement. Keep authenticated hosted
 audits opt-in and separate from ordinary offline checks. Record owner, tool revision, configuration,
-commands, evidence, and previous known-good behavior for recovery. Use [change
-management](../playbooks/change-management.md) and the [hosted audit
-runbook](../runbooks/hosted-settings-audit.md) where applicable.
+commands, evidence, and previous known-good behavior for recovery. Use [change management] and the
+[hosted audit runbook] where applicable.
+
+[change management]: ../playbooks/change-management.md
+[hosted audit runbook]: ../runbooks/hosted-settings-audit.md

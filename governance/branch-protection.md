@@ -33,6 +33,9 @@ source. Preserve unique job names and trigger coverage. Required results must re
 applicable PR; verify `merge_group` coverage before requiring them in a merge queue. Manual/advisory
 jobs and path- filtered jobs need explicit review before becoming requirements.
 
-Use the [transition runbook](../runbooks/update-required-checks.md) before changing names or
-selecting new requirements. Keep exact branches, contexts, owners, and dated verification in the
-project. The [GitFlow guide](../git/gitflow.md) is an optional model for projects that adopt it.
+Use the [transition runbook] before changing names or selecting new requirements. Keep exact
+branches, contexts, owners, and dated verification in the project. The [GitFlow guide] is an
+optional model for projects that adopt it.
+
+[GitFlow guide]: ../git/gitflow.md
+[transition runbook]: ../runbooks/update-required-checks.md
