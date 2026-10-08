@@ -31,12 +31,15 @@ Unreleased until assigned to a reviewed release. Unreviewed working-tree proposa
 of a release.
 
 - [Unreleased](#unreleased)
+- [0.2.0 - 2026-10-08](#020---2026-10-08)
 - [0.1.0 - 2026-10-08](#010---2026-10-08)
   - [Initial Customization](#initial-customization)
 - [0.0.0 - 2026-10-08](#000---2026-10-08)
   - [Initial Collection](#initial-collection)
 
 ## Unreleased
+
+## [0.2.0] - 2026-10-08
 
 - Add repository-wide MIT licensing and project attribution after `v0.1.0`.
 - Add support, security, conduct, and release policies, with evidence-bounded historical records.
@@ -45,6 +48,9 @@ of a release.
 - Expand testing-layer, dependency-boundary, workflow-responsibility, and hosted-audit guidance.
 - Improve repository navigation and guidance for updating adopted templates while preserving
   consumer-owned contracts, blank source templates, and historical evidence.
+- Standardize Markdown header copyright notices and short descriptions.
+
+See the [0.2.0 release record][0.2.0] for scope and validation evidence.
 
 ## [0.1.0] - 2026-10-08
 
@@ -71,3 +77,4 @@ See the [0.0.0 release record][0.0.0] for evidence boundaries.
 [release notes archive]: releases/history/README.md
 [0.0.0]: releases/history/v0.0.0.md
 [0.1.0]: releases/history/v0.1.0.md
+[0.2.0]: releases/history/v0.2.0.md
