@@ -2,6 +2,10 @@
 engineering/releases/evidence-and-history.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Distinguish release states and preserve dated validation evidence.
+
 Responsibilities
 - Distinguish release states and preserve dated validation evidence.
 

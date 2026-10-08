@@ -2,6 +2,10 @@
 engineering/templates/evidence-inventory.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank evidence inventory for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank evidence inventory template.
 

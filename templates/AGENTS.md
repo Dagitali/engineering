@@ -2,6 +2,11 @@
 engineering/templates/AGENTS.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank repository agent instructions for project-owned planning and
+verification.
+
 Responsibilities
 - Provide a blank repository agent instructions template.
 

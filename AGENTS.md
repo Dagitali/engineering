@@ -2,6 +2,10 @@
 engineering/AGENTS.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Define repository boundaries and required evidence for agent work.
+
 Responsibilities
 - Define repository boundaries and required evidence for agent work.
 

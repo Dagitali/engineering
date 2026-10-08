@@ -2,6 +2,10 @@
 engineering/languages/python.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Describe adaptable Python interface, documentation, and layout practices.
+
 Responsibilities
 - Describe adaptable Python interface, documentation, and layout practices.
 

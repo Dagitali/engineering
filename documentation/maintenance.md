@@ -2,6 +2,10 @@
 engineering/documentation/maintenance.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Explain source-of-truth review and documentation verification.
+
 Responsibilities
 - Explain source-of-truth review and documentation verification.
 

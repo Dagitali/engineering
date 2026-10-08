@@ -2,6 +2,10 @@
 engineering/templates/cloudkit-sync-verification.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank cloudkit sync verification for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank cloudkit sync verification template.
 

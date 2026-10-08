@@ -2,6 +2,10 @@
 engineering/releases/apple-apps.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide signed app evidence and beta versus public-release readiness.
+
 Responsibilities
 - Guide signed app evidence and beta versus public-release readiness.
 

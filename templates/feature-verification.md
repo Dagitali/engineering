@@ -2,6 +2,10 @@
 engineering/templates/feature-verification.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank feature verification for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank feature verification template.
 

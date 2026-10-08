@@ -2,6 +2,10 @@
 engineering/templates/apple-app-release-checklist.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank apple app release checklist for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank apple app release checklist template.
 

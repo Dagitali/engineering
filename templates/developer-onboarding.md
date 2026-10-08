@@ -2,6 +2,10 @@
 engineering/templates/developer-onboarding.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank developer onboarding for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank developer onboarding template.
 

@@ -2,6 +2,10 @@
 engineering/development/agent-assisted-workflow.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide evidence-backed planning, handoff, and implementation.
+
 Responsibilities
 - Guide evidence-backed planning, handoff, and implementation.
 

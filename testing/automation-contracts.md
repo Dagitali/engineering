@@ -2,6 +2,10 @@
 engineering/testing/automation-contracts.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide deterministic workflow and action interface validation.
+
 Responsibilities
 - Guide deterministic workflow and action interface validation.
 

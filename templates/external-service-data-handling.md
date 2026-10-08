@@ -2,6 +2,11 @@
 engineering/templates/external-service-data-handling.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank external service data handling for project-owned planning and
+verification.
+
 Responsibilities
 - Provide a blank external service data handling template.
 

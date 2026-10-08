@@ -2,6 +2,10 @@
 engineering/governance/branch-protection.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide review controls and verification of required check coverage.
+
 Responsibilities
 - Guide review controls and verification of required check coverage.
 

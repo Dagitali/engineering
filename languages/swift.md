@@ -2,6 +2,10 @@
 engineering/languages/swift.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Describe Swift structure, testability, and persistence practices.
+
 Responsibilities
 - Describe Swift structure, testability, and persistence practices.
 

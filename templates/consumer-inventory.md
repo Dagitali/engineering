@@ -2,6 +2,10 @@
 engineering/templates/consumer-inventory.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank consumer inventory for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank consumer inventory template.
 

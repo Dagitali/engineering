@@ -2,6 +2,10 @@
 engineering/templates/releases/apple-app.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank apple app release notes for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank apple app release notes template.
 

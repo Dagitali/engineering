@@ -2,6 +2,10 @@
 engineering/testing/disposable-cloud-tests.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide bounded manual cloud tests and verified cleanup.
+
 Responsibilities
 - Guide bounded manual cloud tests and verified cleanup.
 

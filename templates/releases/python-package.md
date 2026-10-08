@@ -2,6 +2,10 @@
 engineering/templates/releases/python-package.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank python package release notes for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank python package release notes template.
 
