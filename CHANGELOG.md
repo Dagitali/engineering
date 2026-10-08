@@ -31,6 +31,7 @@ Unreleased until assigned to a reviewed release. Unreviewed working-tree proposa
 of a release.
 
 - [Unreleased](#unreleased)
+- [0.3.0 - 2026-10-08](#030---2026-10-08)
 - [0.2.0 - 2026-10-08](#020---2026-10-08)
 - [0.1.0 - 2026-10-08](#010---2026-10-08)
   - [Initial Customization](#initial-customization)
@@ -38,6 +39,16 @@ of a release.
   - [Initial Collection](#initial-collection)
 
 ## Unreleased
+
+## [0.3.0] - 2026-10-08
+
+- Add this collection’s change-impact map and generic dependency-consistency guidance.
+- Clarify document types and connect architecture, testing, and workflow-security guidance.
+- Improve task-template review boundaries and links; document the Markdown header convention.
+- Expand agent navigation, validation, release-readiness, and completion guidance, including
+  reference links to README and CONTRIBUTING.
+
+See the [0.3.0 release record][0.3.0] for scope and validation evidence.
 
 ## [0.2.0] - 2026-10-08
 
@@ -78,3 +89,4 @@ See the [0.0.0 release record][0.0.0] for evidence boundaries.
 [0.0.0]: releases/history/v0.0.0.md
 [0.1.0]: releases/history/v0.1.0.md
 [0.2.0]: releases/history/v0.2.0.md
+[0.3.0]: releases/history/v0.3.0.md

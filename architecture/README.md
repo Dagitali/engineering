@@ -28,6 +28,8 @@ superseding decisions. Keep component architecture beside its implementation.
 
 ## Planning and Review
 
+Use this collection’s [change impact map] when editing shared documents.
+
 Use the blank [decision template] for alternatives and consequences, and the [change-impact
 template] to trace affected contracts, sources, tests, documentation, and owners. Completed records
 belong in the consuming project; keep source templates blank.
@@ -36,4 +38,5 @@ belong in the consuming project; keep source templates blank.
 [design guidance]: ../DESIGN.md
 [decision template]: ../templates/architecture-decision.md
 [change-impact template]: ../templates/change-impact-map.md
+[change impact map]: change-impact-map.md
 [decision-record guidance]: decision-records.md

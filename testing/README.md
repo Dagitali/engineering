@@ -30,7 +30,6 @@ evidence where useful. Run focused checks first, then the project’s applicable
 fixtures deterministic and sanitized; do not introduce credentials or external operations merely to
 exercise a local contract. Record skipped checks and limitations alongside results.
 
-
 - [Python testing]: Deterministic tests, compatibility evidence, and clean artifact installation.
 - [Infrastructure testing]: Synthesis, property assertions, and resource-change review.
 - [Automation contracts]: Workflow/action interfaces, fixtures, and evidence limits.
@@ -50,6 +49,8 @@ Command names and test discovery remain project-owned; report which layers actua
 
 ## Dependency Boundaries
 
+Use [dependency consistency] to review manifests, locks, generated inputs, and installation evidence.
+
 Document tool installation separately from test execution. Identify network, credentials, writable
 paths, subprocesses, and resource creation before running a check. Use isolated environments for
 supported dependency ranges and verify that fixture pins match declared contracts. Keep ordinary
@@ -65,6 +66,7 @@ and recorded outcomes, and [runbooks] for diagnosis and recovery.
 [release evidence]: ../releases/evidence-and-history.md
 [runbooks]: ../runbooks/README.md
 [Automation contracts]: automation-contracts.md
+[dependency consistency]: dependency-consistency.md
 [disposable cloud tests]: disposable-cloud-tests.md
 [Infrastructure testing]: infrastructure.md
 [Python testing]: python.md

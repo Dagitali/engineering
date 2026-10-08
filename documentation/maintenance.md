@@ -47,8 +47,10 @@ Use descriptive reference labels, grouped at the bottom and sorted case-sensitiv
 then label. Keep compact, one-use navigation links inline when reference definitions would
 excessively lengthen a dense catalog. Prefer relative links within a repository. Keep official
 names, useful tables of contents, and attribution. Wrap file-header comment lines at 79 characters;
-preserve language directives and URLs. Do not edit generated documentation, caches, distributions,
-or lockfiles as handwritten prose.
+preserve language directives and URLs. Every maintained Markdown header includes `Copyright © 2026
+Dagitali LLC. All rights reserved.` and a short file-specific description. Keep front matter in its
+required position and preserve existing source attribution. Do not edit generated documentation,
+caches, distributions, or lockfiles as handwritten prose.
 
 ## Verification
 
