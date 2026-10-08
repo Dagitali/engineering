@@ -28,6 +28,7 @@ concise changes and the [release playbook] for preparation and closeout.
 
 ## Records
 
+- [v0.2.0] — 2026-10-08: Shared policies, reusable guidance, MIT licensing, and Markdown headers.
 - [v0.1.0] — 2026-10-08: Initial project customization and documentation normalization.
 - [v0.0.0] — 2026-10-08: Initial collection.
 
@@ -39,9 +40,10 @@ consumer rollout are distinct states. Link to canonical policy rather than copyi
 
 ### Evidence Boundaries
 
-These records describe this repository’s existing local tags. They do not establish hosted
-validation, release publication, or consumer rollout. Later inspection is not contemporaneous
-release evidence.
+The 0.2.0 record is prepared in released form; its date is a release-document date, with tag and
+publication evidence unverified. Earlier records describe this repository’s existing local tags.
+They do not establish hosted validation, release publication, or consumer rollout. Later inspection
+is not contemporaneous release evidence.
 
 Dates shown for existing records come from annotated local tag metadata in America/New_York. They
 are not verified publication dates. Preserve preparation and observation dates separately;
@@ -77,3 +79,4 @@ Keep changes after the latest tag under Unreleased until assigned to a reviewed 
 [evidence guide]: ../evidence-and-history.md
 [v0.0.0]: v0.0.0.md
 [v0.1.0]: v0.1.0.md
+[v0.2.0]: v0.2.0.md
