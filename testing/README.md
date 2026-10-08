@@ -50,6 +50,8 @@ Command names and test discovery remain project-owned; report which layers actua
 
 ## Dependency Boundaries
 
+Use [dependency consistency] to review manifests, locks, generated inputs, and installation evidence.
+
 Document tool installation separately from test execution. Identify network, credentials, writable
 paths, subprocesses, and resource creation before running a check. Use isolated environments for
 supported dependency ranges and verify that fixture pins match declared contracts. Keep ordinary
@@ -65,6 +67,7 @@ and recorded outcomes, and [runbooks] for diagnosis and recovery.
 [release evidence]: ../releases/evidence-and-history.md
 [runbooks]: ../runbooks/README.md
 [Automation contracts]: automation-contracts.md
+[dependency consistency]: dependency-consistency.md
 [disposable cloud tests]: disposable-cloud-tests.md
 [Infrastructure testing]: infrastructure.md
 [Python testing]: python.md
