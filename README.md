@@ -19,6 +19,7 @@ release policy, and hosted settings.
 - [Adoption](#adoption)
 - [Topic Guides](#topic-guides)
 - [Contributing](#contributing)
+- [License](#license)
 - [Validation and Scope](#validation-and-scope)
 
 ## Start Here
@@ -40,8 +41,7 @@ permissions, and product guarantees remain authoritative in that project.
 
 This repository contains reusable practice and blank templates. Project catalogs, migration
 inventories, completed operational records, and product-specific contracts belong to their owners.
-Read the [retained notices][Source notices] for applicable material terms; hosting does not
-establish a new license.
+See the [license](#license) and [retained notices][Source notices] for applicable material terms.
 
 ## Topic Guides
 
@@ -72,6 +72,12 @@ scaffolding] to plan a minimal project baseline and its readiness review.
 Read the [contributor guide] and [repository instructions] before editing. Keep reusable guidance
 separate from project-owned contracts, and keep source templates blank.
 
+## License
+
+This repository's documentation and templates are licensed under the [MIT License]. See [NOTICE]
+for attribution and [Source notices] for the licensing transition. Adopting this guidance does not
+change a consuming project's license or other project-owned contracts.
+
 ## Validation and Scope
 
 Use the contributor guide's [validation procedure] for this checkout. Review local destinations,
@@ -82,6 +88,8 @@ index] for bounded operational procedures and the [playbook index] for change pl
 [repository instructions]: AGENTS.md
 [contributor guide]: CONTRIBUTING.md
 [validation procedure]: CONTRIBUTING.md#validation
+[MIT License]: LICENSE
+[NOTICE]: NOTICE
 [Source notices]: NOTICES.md
 [Reference library]: REFERENCES.md
 [Automation]: automation/README.md

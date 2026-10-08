@@ -43,9 +43,9 @@ its contracts, and use its private reporting route for suspected vulnerabilities
 
 Keep edits focused and ground claims in their owning repository. Preserve project-specific
 licensing, privacy, support, branch routing, release contracts, and dated evidence. Source
-attribution and notices are maintained in [NOTICES.md]; this checkout establishes no new
-contribution license. Resolve contribution/distribution terms with the owner before accepting
-external contributions or publication.
+attribution and notices are maintained in [NOTICE] and [NOTICES.md]. Contributions submitted for
+inclusion in this repository are provided under its [MIT License]. Submit only material you are
+authorized to license under those terms, and retain applicable third-party attribution and notices.
 
 ## Documentation Conventions
 
@@ -115,6 +115,8 @@ require task authority; documentation edits alone do not authorize them.
 [local setup]: CONTRIBUTING.md#local-setup-and-hooks
 [PR guidance]: CONTRIBUTING.md#pull-requests
 [validation]: CONTRIBUTING.md#validation
+[MIT License]: LICENSE
+[NOTICE]: NOTICE
 [NOTICES.md]: NOTICES.md
 [documentation maintenance]: documentation/maintenance.md
 [GitFlow guide]: git/gitflow.md
