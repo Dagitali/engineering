@@ -2,6 +2,9 @@
 engineering/NOTICES.md
 Dagitali organization documentation
 
+Responsibilities
+- Retain applicable permission and reserved-rights notices.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

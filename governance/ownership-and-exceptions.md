@@ -2,15 +2,27 @@
 engineering/governance/ownership-and-exceptions.md
 Dagitali organization documentation
 
+Responsibilities
+- Explain ownership, exception records, and inactive-consumer review.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
 
 # Ownership and Exceptions
 
+- [Ownership Boundaries](#ownership-boundaries)
+- [Override and Exception Records](#override-and-exception-records)
+- [Review and Closure](#review-and-closure)
+- [Inactive Consumers](#inactive-consumers)
+
+## Ownership Boundaries
+
 Projects own their configuration, callers, licenses, support commitments, CODEOWNERS, and hosted
 settings. Shared-library maintainers own released interfaces and their documentation. An override is
 not automatically an error: preserve intentional consumer differences and document their impact.
+
+## Override and Exception Records
 
 For a policy exception or local override, record the affected surface, baseline revision,
 alternative, reason, security/compatibility impact, compensating measures, responsible owner,
@@ -18,9 +30,13 @@ applicable approval, decision date, next review, evidence, and removal or migrat
 Choose review intervals by risk; this guidance establishes no universal deadline or central approval
 service.
 
+## Review and Closure
+
 Recheck after ownership, visibility, workflow, or policy changes. Close superseded records with the
 replacement decision and retain useful history. Hosted owner access and bypass behavior require
 separate verification. Completed records with private details belong in restricted storage.
+
+## Inactive Consumers
 
 For inactive consumers, record maintenance status, owner availability, adopted revision, outstanding
 findings, and disclosure/update expectations. Inactivity does not authorize disabling workflows,

@@ -2,6 +2,9 @@
 engineering/templates/releases/apple-app.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank apple app release notes template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

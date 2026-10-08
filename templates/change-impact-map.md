@@ -2,6 +2,9 @@
 engineering/templates/change-impact-map.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank change impact map template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

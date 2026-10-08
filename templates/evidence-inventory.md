@@ -2,6 +2,9 @@
 engineering/templates/evidence-inventory.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank evidence inventory template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

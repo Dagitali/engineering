@@ -2,6 +2,9 @@
 engineering/templates/pull-request-apple-app.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank apple app pull request template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

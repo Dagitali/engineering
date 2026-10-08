@@ -2,6 +2,9 @@
 engineering/interfaces/evolution-checklist.md
 Dagitali organization documentation
 
+Responsibilities
+- Guide public-interface compatibility and migration review.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

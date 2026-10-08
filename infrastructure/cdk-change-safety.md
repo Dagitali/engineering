@@ -2,6 +2,9 @@
 engineering/infrastructure/cdk-change-safety.md
 Dagitali organization documentation
 
+Responsibilities
+- Guide resource identity, migration, and synthesis review.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

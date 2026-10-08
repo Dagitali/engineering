@@ -2,6 +2,9 @@
 engineering/automation/validation-and-delivery.md
 Dagitali organization documentation
 
+Responsibilities
+- Separate consumer validation from authorized delivery operations.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

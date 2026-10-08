@@ -2,6 +2,9 @@
 engineering/templates/pull-request-infrastructure.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank infrastructure pull request template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

@@ -2,6 +2,9 @@
 engineering/templates/developer-onboarding.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank developer onboarding template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

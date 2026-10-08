@@ -2,6 +2,9 @@
 engineering/automation/repository-policy.md
 Dagitali organization documentation
 
+Responsibilities
+- Guide selection and verification of consumer-owned repository checks.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

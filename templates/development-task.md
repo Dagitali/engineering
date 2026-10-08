@@ -2,6 +2,9 @@
 engineering/templates/development-task.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank development task templates template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

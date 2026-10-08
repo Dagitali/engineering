@@ -2,6 +2,9 @@
 engineering/security/workflow-trust-boundaries.md
 Dagitali organization documentation
 
+Responsibilities
+- Guide workflow identity, privilege, and untrusted-code review.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

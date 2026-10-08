@@ -2,6 +2,9 @@
 engineering/runbooks/update-required-checks.md
 Dagitali organization documentation
 
+Responsibilities
+- Guide coordinated required-check replacement and blocking verification.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

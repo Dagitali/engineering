@@ -2,6 +2,9 @@
 engineering/playbooks/change-management.md
 Dagitali organization documentation
 
+Responsibilities
+- Guide compatibility decisions and synchronized validation and release.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

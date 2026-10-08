@@ -2,6 +2,9 @@
 engineering/documentation/maintenance.md
 Dagitali organization documentation
 
+Responsibilities
+- Explain source-of-truth review and documentation verification.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

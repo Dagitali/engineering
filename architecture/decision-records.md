@@ -2,6 +2,9 @@
 engineering/architecture/decision-records.md
 Dagitali organization documentation
 
+Responsibilities
+- Explain durable decision records and preservation of their history.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

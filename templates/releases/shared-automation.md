@@ -2,6 +2,9 @@
 engineering/templates/releases/shared-automation.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank shared automation release notes template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

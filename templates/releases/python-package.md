@@ -2,6 +2,9 @@
 engineering/templates/releases/python-package.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank python package release notes template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
@@ -19,7 +22,8 @@ Replace fields with actual outcomes. Retain completed records in the released pr
 
 ## Candidate and Highlights
 
-`<Project, version/build, status, verified event date/timezone, evidence identifying candidate, changelog link>`.
+`<Project, version/build, status, verified event date/timezone, evidence identifying candidate,
+changelog link>`.
 
 ## Change Scope
 

@@ -2,6 +2,9 @@
 engineering/governance/branch-protection.md
 Dagitali organization documentation
 
+Responsibilities
+- Guide review controls and verification of required check coverage.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

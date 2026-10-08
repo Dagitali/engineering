@@ -2,6 +2,9 @@
 engineering/templates/AGENTS.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank repository agent instructions template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
@@ -9,6 +12,11 @@ Maintainer Notes
 # Repository Agent Instructions Template
 
 Copy into the consuming repository as `AGENTS.md`; replace fields and remove inapplicable guidance.
+
+- [Repository Boundaries](#repository-boundaries)
+- [Operating Model](#operating-model)
+- [Validation and Documentation](#validation-and-documentation)
+- [Project Conventions](#project-conventions)
 
 ## Repository Boundaries
 
