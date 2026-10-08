@@ -2,6 +2,9 @@
 engineering/runbooks/hosted-settings-audit.md
 Dagitali organization documentation
 
+Responsibilities
+- Guide read-only settings observations and follow-up evidence.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
@@ -13,7 +16,16 @@ inventory, expected contexts, reviewed tool revision, and exact invocation in th
 project's configuration. The selected audit tool's maintained reference owns its schema and exact
 result names.
 
+- [Prepare and Run the Audit](#prepare-and-run-the-audit)
 - [Interpret Results](#interpret-results)
+- [Exceptions and Follow-Up](#exceptions-and-follow-up)
+
+## Prepare and Run the Audit
+
+Keep credentials outside the report. Store private operator details in restricted records. Use the
+installed reviewed tool through the consuming project's reproducible environment; audits must not
+silently install dependencies or repair settings. Keep authenticated checks opt-in and separate from
+ordinary offline validation.
 
 ## Interpret Results
 
@@ -29,10 +41,7 @@ revision. Do not infer current enforcement, source-App identity, administrator b
 notification delivery, or a monitored mailbox from configuration presence. Check representative
 execution and blocking separately.
 
-Keep credentials outside the report. Store private operator details in restricted records. Use the
-installed reviewed tool through the consuming project's reproducible environment; audits must not
-silently install dependencies or repair settings. Keep authenticated checks opt-in and separate from
-ordinary offline validation.
+## Exceptions and Follow-Up
 
 Assign follow-up ownership and retain dated observations. Exceptions need exact scope, rationale,
 compensation, approval evidence, and expiry. Request remediation separately; an audit is not

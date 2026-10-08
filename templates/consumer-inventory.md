@@ -2,6 +2,9 @@
 engineering/templates/consumer-inventory.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank consumer inventory template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

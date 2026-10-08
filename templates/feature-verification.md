@@ -2,6 +2,9 @@
 engineering/templates/feature-verification.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank feature verification template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

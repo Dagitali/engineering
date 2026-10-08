@@ -2,6 +2,9 @@
 engineering/AGENTS.md
 Dagitali organization documentation
 
+Responsibilities
+- Define repository boundaries and required evidence for agent work.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

@@ -2,6 +2,9 @@
 engineering/templates/copilot/copilot-instructions.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide adaptable repository instructions for Copilot adoption.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

@@ -2,6 +2,9 @@
 engineering/development/agent-assisted-workflow.md
 Dagitali organization documentation
 
+Responsibilities
+- Guide evidence-backed planning, handoff, and implementation.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

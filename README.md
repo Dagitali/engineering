@@ -2,6 +2,9 @@
 engineering/README.md
 Dagitali organization documentation
 
+Responsibilities
+- Index shared engineering guidance and clarify adoption boundaries.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
@@ -15,6 +18,8 @@ release policy, and hosted settings.
 - [Start Here](#start-here)
 - [Adoption](#adoption)
 - [Topic Guides](#topic-guides)
+- [Contributing](#contributing)
+- [Validation and Scope](#validation-and-scope)
 
 ## Start Here
 
@@ -25,6 +30,7 @@ release policy, and hosted settings.
 - [Automation]
 - [Templates]
 - [Source notices]
+- [Reference library]
 
 ## Adoption
 
@@ -38,6 +44,10 @@ Read the [retained notices][Source notices] for applicable material terms; hosti
 establish a new license.
 
 ## Topic Guides
+
+Browse the [development index], [testing index], and [release index] for guidance grouped by task.
+Use the [adoption tutorial] to try a local Markdown check with disposable files. Use [consumer
+scaffolding] to plan a minimal project baseline and its readiness review.
 
 - [Python](languages/python.md) and [Swift](languages/swift.md)
 - [Python testing](testing/python.md), [infrastructure testing](testing/infrastructure.md),
@@ -57,4 +67,33 @@ establish a new license.
 - [CDK change safety](infrastructure/cdk-change-safety.md)
 - [Tooling lessons](learnings/python-and-repository-tooling.md)
 
+## Contributing
+
+Read the [contributor guide] and [repository instructions] before editing. Keep reusable guidance
+separate from project-owned contracts, and keep source templates blank.
+
+## Validation and Scope
+
+Use the contributor guide's [validation procedure] for this checkout. Review local destinations,
+heading anchors, reference labels, and template placeholders alongside source accuracy. Local checks
+do not establish external availability, hosted enforcement, or publication. Browse the [runbook
+index] for bounded operational procedures and the [playbook index] for change planning.
+
+[repository instructions]: AGENTS.md
+[contributor guide]: CONTRIBUTING.md
+[validation procedure]: CONTRIBUTING.md#validation
 [Source notices]: NOTICES.md
+[Reference library]: REFERENCES.md
+[Automation]: automation/README.md
+[development index]: development/README.md
+[Development workflow]: development/agent-assisted-workflow.md
+[adoption tutorial]: documentation/adopt-markdown-check.md
+[Documentation maintenance]: documentation/maintenance.md
+[Branch protection]: governance/branch-protection.md
+[playbook index]: playbooks/README.md
+[Change management]: playbooks/change-management.md
+[consumer scaffolding]: playbooks/scaffold-consumer-project.md
+[release index]: releases/README.md
+[runbook index]: runbooks/README.md
+[Templates]: templates/README.md
+[testing index]: testing/README.md

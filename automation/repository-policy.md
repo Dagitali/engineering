@@ -2,6 +2,9 @@
 engineering/automation/repository-policy.md
 Dagitali organization documentation
 
+Responsibilities
+- Guide selection and verification of consumer-owned repository checks.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
@@ -29,6 +32,12 @@ Compare old and replacement commands against the same repository revision. Use s
 deliberately failing, and boundary fixtures. Verify reporting, exit behavior, read-only guarantees,
 and intentional exceptions before replacing local scripts. Keep regression cases for purposeful
 consumer differences.
+
+Classify each difference as configuration drift, an intentional policy change, unsupported
+replacement behavior, or a defect. Separate tool adoption from policy changes where possible. Retain
+existing checks for requirements the replacement does not cover, and review every caller before
+retiring a script. A successful replacement run does not establish equivalent coverage; confirm both
+accepted and deliberately rejected cases and document residual gaps.
 
 ## Integrate and Verify
 

@@ -2,20 +2,33 @@
 engineering/releases/evidence-and-history.md
 Dagitali organization documentation
 
+Responsibilities
+- Distinguish release states and preserve dated validation evidence.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
 
 # Release Evidence and History
 
+- [Records and Ownership](#records-and-ownership)
+- [Candidate Identity and Evidence](#candidate-identity-and-evidence)
+- [Historical Corrections and Recovery](#historical-corrections-and-recovery)
+
+## Records and Ownership
+
 Keep changelogs, archive indexes, and version records with the released component. Changelogs own
 concise version highlights; records own candidate scope, compatibility, validation, artifacts,
 limitations, and recovery.
+
+## Candidate Identity and Evidence
 
 Distinguish prepared candidate, existing local tag, hosted validation, published release, and
 consumer rollout. Record event date/timezone separately from preparation or publication dates.
 Evidence belongs to its exact commit, tag, artifact, configuration, and environment;
 current-checkout success does not validate an old tag.
+
+## Historical Corrections and Recovery
 
 Preserve historical outcomes, including failed, skipped, and pending checks. Add a dated
 clarification when needed rather than implying later verification was available at preparation time.

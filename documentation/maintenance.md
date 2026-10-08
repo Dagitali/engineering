@@ -2,6 +2,9 @@
 engineering/documentation/maintenance.md
 Dagitali organization documentation
 
+Responsibilities
+- Explain source-of-truth review and documentation verification.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
@@ -15,6 +18,7 @@ release records remain with their projects.
 - [Sources of Truth](#sources-of-truth)
 - [Change Procedure](#change-procedure)
 - [Verification](#verification)
+- [Completion Evidence](#completion-evidence)
 
 ## Sources of Truth
 
@@ -55,5 +59,13 @@ statements link only to evidence their audience may inspect.
 
 A documentation task does not authorize changing implementation or external state to make a claim
 true. Report discrepancies requiring a separate implementation decision.
+
+## Completion Evidence
+
+Report created and updated files, canonical sources supporting major claims, exact commands and
+results, and failed or skipped checks with reasons. State whether public behavior is affected and
+identify remaining discrepancies, owners, or follow-up work. Distinguish current-checkout results
+from historical, hosted, and publication evidence. Keep confidential details restricted and make
+public claims inspectable by their intended audience.
 
 [evidence inventory]: ../templates/evidence-inventory.md

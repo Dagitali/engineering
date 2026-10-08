@@ -2,6 +2,9 @@
 engineering/templates/evidence-inventory.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank evidence inventory template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
@@ -16,6 +19,8 @@ completed records in access-controlled storage; this repository retains the blan
 - [Authority and Disclosure](#authority-and-disclosure)
 - [Verification](#verification)
 - [Metrics and Publication](#metrics-and-publication)
+  - [Metrics and Outcomes](#metrics-and-outcomes)
+  - [Publication Decision](#publication-decision)
 
 ## Candidate Claim
 
@@ -49,9 +54,16 @@ completed records in access-controlled storage; this repository retains the blan
 
 ## Metrics and Publication
 
+### Metrics and Outcomes
+
 | Field | Record |
 | --- | --- |
 | Metric, baseline, comparison period, data source, calculation, confounders if applicable | |
+
+### Publication Decision
+
+| Field | Record |
+| --- | --- |
 | Decision: publish, revise, hold, reject | |
 | Approved wording, attribution, authority, and date | |
 | Follow-up owner and next verification | |

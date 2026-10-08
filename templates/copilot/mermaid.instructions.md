@@ -5,6 +5,9 @@ applyTo: "**/*.mmd,**/*.mermaid,**/*.md"
 engineering/templates/copilot/mermaid.instructions.md
 Dagitali organization documentation
 
+Responsibilities
+- Guide evidence-backed diagram creation and local verification.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->

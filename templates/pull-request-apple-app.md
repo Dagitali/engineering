@@ -2,6 +2,9 @@
 engineering/templates/pull-request-apple-app.md
 Dagitali organization documentation
 
+Responsibilities
+- Provide a blank apple app pull request template.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
@@ -14,6 +17,8 @@ Copy into the consuming project's PR template location and retain its own policy
 - [Validation and UI Evidence](#validation-and-ui-evidence)
 - [Privacy and Persistence](#privacy-and-persistence)
 - [Distribution and Documentation](#distribution-and-documentation)
+- [Deployment and Rollback](#deployment-and-rollback)
+- [Checklist](#checklist)
 
 ## Summary and Review Focus
 
@@ -33,6 +38,17 @@ conflict handling, and rollback>`.
 ## Distribution and Documentation
 
 `<Signed artifact/channel effects, metadata/privacy copy, release notes, licensing, known risks>`.
+
+## Deployment and Rollback
+
+`<Distribution/deployment effect or explicit none, configuration/data migrations, signed build and
+channel, separately approved operations, prior safe artifact/revision, rollback or forward-fix
+steps, recovery owner, and verification>`. Cross-reference privacy and persistence impacts above.
+Identify irreversible effects and any channel restrictions on restoring a prior build; do not assume
+republishing an old binary reverses data migrations or distribution. Keep private operational
+details in restricted records.
+
+## Checklist
 
 - [ ] Focused change with tests for affected behavior.
 - [ ] Supported platforms, accessibility, and UI evidence reviewed.

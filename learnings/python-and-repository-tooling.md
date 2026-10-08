@@ -2,6 +2,9 @@
 engineering/learnings/python-and-repository-tooling.md
 Dagitali organization documentation
 
+Responsibilities
+- Retain reusable tooling lessons without project-specific contracts.
+
 Maintainer Notes
 - Keep shared guidance independent of any originating project.
 -->
