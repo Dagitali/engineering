@@ -15,6 +15,7 @@ Maintainer Notes
 - [Override and Exception Records](#override-and-exception-records)
 - [Review and Closure](#review-and-closure)
 - [Inactive Consumers](#inactive-consumers)
+- [Deprecated Shared Interfaces](#deprecated-shared-interfaces)
 
 ## Ownership Boundaries
 
@@ -43,4 +44,19 @@ findings, and disclosure/update expectations. Inactivity does not authorize disa
 archiving repositories, or deleting evidence. Track known migrations separately from unknown
 adoption. Use the [inventory template] and the component's local release policy.
 
+## Deprecated Shared Interfaces
+
+Follow the component's local release policy when deprecating an interface. Announce the affected
+paths, inputs, or behavior, identify a replacement where feasible, and document migration steps.
+Retain released revisions and distinguish known consumer migrations from unknown adoption; missing
+inventory is not evidence that an interface is unused.
+
+Assign each known migration an owner, target revision, validation evidence, and reviewed recovery
+reference. Removal requires the component's versioning decision and compatibility review. Updating a
+starter does not update previously copied callers. Retain dated migration or retirement decisions
+without silently rewriting consumers or retargeting immutable tags. Use the [interface checklist]
+and [shared automation release guide] where applicable.
+
+[interface checklist]: ../interfaces/evolution-checklist.md
+[shared automation release guide]: ../releases/shared-automation.md
 [inventory template]: ../templates/consumer-inventory.md

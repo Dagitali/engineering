@@ -15,16 +15,26 @@ Review synthesized infrastructure as a public behavior boundary. Prefer stable c
 properties; document lower-level overrides when necessary. Validate configuration before resource
 creation.
 
+- [Resource Identity and Migration](#resource-identity-and-migration)
+- [Consumer Boundaries](#consumer-boundaries)
+- [Operational Verification](#operational-verification)
+
+## Resource Identity and Migration
+
 Preserve stateful construct identities. Renaming or moving a construct can change logical IDs and
 replace resources; compare synthesis and the authorized deployment diff before accepting a
 migration. Examine IAM, public access, encryption/TLS, DNS, retention, update/delete policies,
 custom resources, availability, and cost. A removal policy is not proof that non-empty storage will
 be deleted or retained exactly as expected.
 
+## Consumer Boundaries
+
 Keep reusable constructs separate from consumer accounts, regions, deployment identity, content,
 APIs, monitoring, and budgets. Use examples and regression assertions for the supported composition.
 Product requirements such as certificate region, bucket defaults, and OAC stay in the construct's
 local contract.
+
+## Operational Verification
 
 Synthesis is a local validation step; deployments, destruction, DNS changes, and cloud recovery
 require separate authority. Record migration and rollback ownership before operations affecting

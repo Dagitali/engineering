@@ -46,6 +46,12 @@ Roll out to known consumers in stages, recording owner, new revision, caller evi
 revision. Verify event coverage, permissions, artifact behavior, and required-check identities.
 Restore compatible callers and hosted check selections together when recovery needs both.
 
+Before rollback, verify that the previous revision is unaffected and compatible with the consumer.
+If no safe rollback exists, record that limitation and obtain the affected owner's decision on
+containment or a reviewed forward fix. Keep unresolved consumers visible until recovery is verified.
+Changing a caller reference does not reverse credential exposure or already-published artifacts;
+track their assessment and separately authorized remediation with responsible owners and evidence.
+
 ## Disclosure and Closure
 
 Close with the cause, affected scope, completed containment, verified migrations, unresolved

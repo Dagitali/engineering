@@ -11,11 +11,20 @@ Maintainer Notes
 
 # Contributing to Organization Documentation
 
+- [Before You Begin](#before-you-begin)
 - [Contribution Terms](#contribution-terms)
 - [Documentation Conventions](#documentation-conventions)
 - [Local Setup and Hooks](#local-setup-and-hooks)
 - [Validation](#validation)
 - [Pull Requests](#pull-requests)
+
+## Before You Begin
+
+Search existing issues and pull requests before proposing a change. For substantial documentation
+changes, describe the affected guidance and rationale in an existing relevant discussion or a draft
+pull request for maintainer review. Use the repository's available contribution channels; this guide
+establishes no new reporting service. Read the owning project's instructions when a proposal affects
+its contracts, and use its private reporting route for suspected vulnerabilities.
 
 ## Contribution Terms
 

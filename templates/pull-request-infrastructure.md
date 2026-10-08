@@ -18,6 +18,7 @@ checks.
 - [Compatibility and Infrastructure](#compatibility-and-infrastructure)
 - [Validation](#validation)
 - [Documentation and Delivery](#documentation-and-delivery)
+- [Checklist](#checklist)
 
 ## Summary and Scope
 
@@ -36,6 +37,8 @@ hosted, failed/skipped checks and reasons>`.
 ## Documentation and Delivery
 
 `<Updated contracts/examples/decisions/changelog, delivery effect, approved operational steps>`.
+
+## Checklist
 
 - [ ] Focused diff and affected behavior reviewed.
 - [ ] Applicable tests and documentation updated.

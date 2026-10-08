@@ -17,6 +17,7 @@ Copy into the consuming project's PR template location and retain its own policy
 - [Validation and UI Evidence](#validation-and-ui-evidence)
 - [Privacy and Persistence](#privacy-and-persistence)
 - [Distribution and Documentation](#distribution-and-documentation)
+- [Checklist](#checklist)
 
 ## Summary and Review Focus
 
@@ -36,6 +37,8 @@ conflict handling, and rollback>`.
 ## Distribution and Documentation
 
 `<Signed artifact/channel effects, metadata/privacy copy, release notes, licensing, known risks>`.
+
+## Checklist
 
 - [ ] Focused change with tests for affected behavior.
 - [ ] Supported platforms, accessibility, and UI evidence reviewed.
