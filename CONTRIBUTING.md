@@ -12,7 +12,9 @@ Maintainer Notes
 # Contributing to Organization Documentation
 
 - [Before You Begin](#before-you-begin)
+- [Ways to Contribute](#ways-to-contribute)
 - [First Contribution](#first-contribution)
+- [Community Standards](#community-standards)
 - [Contribution Terms](#contribution-terms)
 - [Documentation Conventions](#documentation-conventions)
 - [Local Setup and Hooks](#local-setup-and-hooks)
@@ -27,6 +29,12 @@ pull request for maintainer review. Use the repository's available contribution 
 establishes no new reporting service. Read the owning project's instructions when a proposal affects
 its contracts, and use its private reporting route for suspected vulnerabilities.
 
+## Ways to Contribute
+
+Correct inaccurate guidance, repair links, improve examples, report sanitized adoption problems, and
+propose reusable templates supported by demonstrated need. Explain the affected contract and
+canonical evidence. Keep project-specific policy and completed private records with their owners.
+
 ## First Contribution
 
 1. Read the README, [repository instructions], and contribution terms below. Inspect the working
@@ -38,6 +46,11 @@ its contracts, and use its private reporting route for suspected vulnerabilities
 4. Follow [local setup] and [validation], inspect the diff, and record results and skipped checks.
 5. When submission is authorized, open a PR against the agreed base branch using the [PR guidance].
    Use a draft for early feedback and address review findings.
+
+## Community Standards
+
+Follow the [Code of Conduct]. Use the [support guide] for help and the [security policy] for
+sensitive findings. Public contributions must omit confidential project content and personal data.
 
 ## Contribution Terms
 
@@ -112,11 +125,14 @@ require task authority; documentation edits alone do not authorize them.
 
 [hook configuration]: .pre-commit-config.yaml
 [repository instructions]: AGENTS.md
+[Code of Conduct]: CODE_OF_CONDUCT.md
 [local setup]: CONTRIBUTING.md#local-setup-and-hooks
 [PR guidance]: CONTRIBUTING.md#pull-requests
 [validation]: CONTRIBUTING.md#validation
 [MIT License]: LICENSE
 [NOTICE]: NOTICE
 [NOTICES.md]: NOTICES.md
+[security policy]: SECURITY.md
+[support guide]: SUPPORT.md
 [documentation maintenance]: documentation/maintenance.md
 [GitFlow guide]: git/gitflow.md
