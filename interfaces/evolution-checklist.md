@@ -15,6 +15,13 @@ Review documented commands, configuration, types, defaults, outputs, error behav
 inputs, and generated resources as consumer contracts. A stricter validator can break consumers
 without changing its command name.
 
+- [Establish the Contract](#establish-the-contract)
+- [Implement and Prove](#implement-and-prove)
+- [Synchronize Documentation](#synchronize-documentation)
+- [Validate and Report](#validate-and-report)
+
+## Establish the Contract
+
 - Identify the demonstrated need, owner, current contract, and affected consumers.
 - Classify the change as additive, behavior-changing, deprecating, or breaking under local release
   policy.
@@ -22,11 +29,22 @@ without changing its command name.
   implementation.
 - Preserve intentional exports, read-only guarantees, resource identities, and consumer ownership
   where promised.
+
+## Implement and Prove
+
 - Test successful, invalid, missing-input, and boundary behavior through the real public entry
   point.
 - Verify installed interfaces or synthesized resources when those boundaries change.
+
+## Synchronize Documentation
+
 - Synchronize examples, configuration references, architecture, changelog, and affected release
   guidance.
+
+## Validate and Report
+
+- Run the project's applicable focused checks and broader gate; report actual commands and results,
+  including failed or skipped checks and reasons.
 - Report evidence, limitations, migration, and rollback; do not invent support guarantees.
 
 Keep concrete API names, CLI dispatch cases, synthesis assertions, and validation commands in the

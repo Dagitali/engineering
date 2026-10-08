@@ -33,6 +33,12 @@ deliberately failing, and boundary fixtures. Verify reporting, exit behavior, re
 and intentional exceptions before replacing local scripts. Keep regression cases for purposeful
 consumer differences.
 
+Classify each difference as configuration drift, an intentional policy change, unsupported
+replacement behavior, or a defect. Separate tool adoption from policy changes where possible. Retain
+existing checks for requirements the replacement does not cover, and review every caller before
+retiring a script. A successful replacement run does not establish equivalent coverage; confirm both
+accepted and deliberately rejected cases and document residual gaps.
+
 ## Integrate and Verify
 
 Use the same documented invocation locally and in CI. Distinguish tool-format validation from the
