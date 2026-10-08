@@ -2,6 +2,10 @@
 engineering/playbooks/release.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Explain release playbook and its ownership boundaries.
+
 Responsibilities
 - Explain release playbook and its ownership boundaries.
 

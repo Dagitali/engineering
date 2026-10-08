@@ -2,6 +2,10 @@
 engineering/git/gitflow.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Explain optional GitFlow routing with protected integration branches.
+
 Responsibilities
 - Explain optional GitFlow routing with protected integration branches.
 

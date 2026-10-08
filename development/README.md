@@ -2,6 +2,10 @@
 engineering/development/README.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Index contributor planning, repository orientation, and review templates.
+
 Responsibilities
 - Index contributor planning, repository orientation, and review templates.
 

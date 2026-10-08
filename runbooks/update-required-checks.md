@@ -2,6 +2,10 @@
 engineering/runbooks/update-required-checks.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide coordinated required-check replacement and blocking verification.
+
 Responsibilities
 - Guide coordinated required-check replacement and blocking verification.
 

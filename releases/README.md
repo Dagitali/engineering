@@ -2,6 +2,10 @@
 engineering/releases/README.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Index candidate verification and platform-specific release templates.
+
 Responsibilities
 - Index candidate verification and platform-specific release templates.
 

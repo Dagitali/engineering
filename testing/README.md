@@ -2,6 +2,10 @@
 engineering/testing/README.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Index validation layers and operational evidence boundaries.
+
 Responsibilities
 - Index validation layers and operational evidence boundaries.
 

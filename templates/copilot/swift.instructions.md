@@ -5,6 +5,10 @@ applyTo: "**/*.swift"
 engineering/templates/copilot/swift.instructions.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Provide adaptable Swift source and documentation instructions.
+
 Responsibilities
 - Provide adaptable Swift source and documentation instructions.
 

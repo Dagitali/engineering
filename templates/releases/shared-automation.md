@@ -2,6 +2,11 @@
 engineering/templates/releases/shared-automation.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank shared automation release notes for project-owned planning and
+verification.
+
 Responsibilities
 - Provide a blank shared automation release notes template.
 

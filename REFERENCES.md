@@ -2,6 +2,10 @@
 engineering/REFERENCES.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Index canonical local guidance and upstream documentation formats.
+
 Responsibilities
 - Index canonical local guidance and upstream documentation formats.
 

@@ -2,6 +2,10 @@
 engineering/ARCHITECTURE.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Repository structure, adoption flow, and ownership boundaries.
+
 Responsibilities
 - Explain architecture and its ownership boundaries.
 

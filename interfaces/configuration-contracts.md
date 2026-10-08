@@ -2,6 +2,10 @@
 engineering/interfaces/configuration-contracts.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Explain configuration contracts and verification boundaries.
+
 Responsibilities
 - Explain configuration contracts and verification boundaries.
 

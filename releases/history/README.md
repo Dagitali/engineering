@@ -2,6 +2,10 @@
 engineering/releases/history/README.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Maintain engineering release history for this repository.
+
 Responsibilities
 - Maintain engineering release history for this repository.
 

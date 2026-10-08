@@ -2,6 +2,10 @@
 engineering/templates/shared-automation-adoption.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank shared automation adoption for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank shared automation adoption template.
 

@@ -2,6 +2,10 @@
 engineering/LEARNINGS.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Reusable diagnosed failures and links to tooling lessons.
+
 Responsibilities
 - Explain learnings and its ownership boundaries.
 

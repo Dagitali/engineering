@@ -2,6 +2,10 @@
 engineering/runbooks/hosted-settings-audit.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide read-only settings observations and follow-up evidence.
+
 Responsibilities
 - Guide read-only settings observations and follow-up evidence.
 

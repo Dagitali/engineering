@@ -2,6 +2,10 @@
 engineering/templates/python-release-checklist.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank python release checklist for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank python release checklist template.
 

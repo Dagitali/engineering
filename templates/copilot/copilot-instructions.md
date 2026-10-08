@@ -2,6 +2,10 @@
 engineering/templates/copilot/copilot-instructions.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Provide adaptable repository instructions for Copilot adoption.
+
 Responsibilities
 - Provide adaptable repository instructions for Copilot adoption.
 

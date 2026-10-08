@@ -2,6 +2,10 @@
 engineering/README.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Index shared engineering guidance and clarify adoption boundaries.
+
 Responsibilities
 - Index shared engineering guidance and clarify adoption boundaries.
 

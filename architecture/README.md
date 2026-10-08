@@ -2,6 +2,10 @@
 engineering/architecture/README.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Maintain architecture guidance for this repository.
+
 Responsibilities
 - Maintain architecture guidance for this repository.
 

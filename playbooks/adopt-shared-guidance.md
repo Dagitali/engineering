@@ -2,6 +2,10 @@
 engineering/playbooks/adopt-shared-guidance.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Explain adopt shared guidance and its ownership boundaries.
+
 Responsibilities
 - Explain adopt shared guidance and its ownership boundaries.
 

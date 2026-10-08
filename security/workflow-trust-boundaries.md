@@ -2,6 +2,10 @@
 engineering/security/workflow-trust-boundaries.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide workflow identity, privilege, and untrusted-code review.
+
 Responsibilities
 - Guide workflow identity, privilege, and untrusted-code review.
 

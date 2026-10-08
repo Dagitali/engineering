@@ -2,6 +2,10 @@
 engineering/templates/pull-request-apple-app.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank apple app pull request for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank apple app pull request template.
 

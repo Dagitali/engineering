@@ -2,6 +2,10 @@
 engineering/templates/app-store-metadata.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank app store metadata for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank app store metadata template.
 

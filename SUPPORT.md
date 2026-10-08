@@ -2,6 +2,10 @@
 engineering/SUPPORT.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Help channels, supported revisions, and maintenance expectations.
+
 Responsibilities
 - Maintain support for this repository.
 

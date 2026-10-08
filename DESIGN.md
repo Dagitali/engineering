@@ -2,6 +2,10 @@
 engineering/DESIGN.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Design principles and compatibility constraints for reusable guidance.
+
 Responsibilities
 - Explain design and its ownership boundaries.
 

@@ -2,6 +2,10 @@
 engineering/templates/change-impact-map.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank change impact map for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank change impact map template.
 

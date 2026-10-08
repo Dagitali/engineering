@@ -2,6 +2,10 @@
 engineering/templates/external-service-operations.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Blank external service operations for project-owned planning and verification.
+
 Responsibilities
 - Provide a blank external service operations template.
 

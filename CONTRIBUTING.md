@@ -2,6 +2,10 @@
 engineering/CONTRIBUTING.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Explain contribution terms, editing conventions, and local validation.
+
 Responsibilities
 - Explain contribution terms, editing conventions, and local validation.
 

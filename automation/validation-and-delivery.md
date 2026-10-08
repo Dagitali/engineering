@@ -2,6 +2,10 @@
 engineering/automation/validation-and-delivery.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Separate consumer validation from authorized delivery operations.
+
 Responsibilities
 - Separate consumer validation from authorized delivery operations.
 

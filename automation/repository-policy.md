@@ -2,6 +2,10 @@
 engineering/automation/repository-policy.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Guide selection and verification of consumer-owned repository checks.
+
 Responsibilities
 - Guide selection and verification of consumer-owned repository checks.
 

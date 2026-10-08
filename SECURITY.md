@@ -2,6 +2,10 @@
 engineering/SECURITY.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Private reporting guidance and consumer security responsibilities.
+
 Responsibilities
 - Maintain security policy for this repository.
 

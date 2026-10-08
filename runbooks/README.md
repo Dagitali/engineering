@@ -2,6 +2,10 @@
 engineering/runbooks/README.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Index bounded operational checks and incident recovery procedures.
+
 Responsibilities
 - Index bounded operational checks and incident recovery procedures.
 

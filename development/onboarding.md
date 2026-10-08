@@ -2,6 +2,10 @@
 engineering/development/onboarding.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Explain developer onboarding and verification boundaries.
+
 Responsibilities
 - Explain developer onboarding and verification boundaries.
 

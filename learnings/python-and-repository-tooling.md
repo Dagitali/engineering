@@ -2,6 +2,10 @@
 engineering/learnings/python-and-repository-tooling.md
 Dagitali organization documentation
 
+Copyright © 2026 Dagitali LLC. All rights reserved.
+
+Retain reusable tooling lessons without project-specific contracts.
+
 Responsibilities
 - Retain reusable tooling lessons without project-specific contracts.
 
