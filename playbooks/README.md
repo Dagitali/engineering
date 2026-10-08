@@ -22,6 +22,8 @@ Supporting guidance remains at its canonical path:
 - [Release evidence]: Distinguish candidates, publication, and consumer rollout.
 - [Templates]: Select blank planning and verification forms for the consuming project.
 - [Runbooks]: Diagnose operational failures and verify authorized recovery.
+- [Shared guidance adoption]: Preserve existing contracts while integrating selected guidance.
+- [Release playbook]: Prepare, validate, deliver with authority, and close out release evidence.
 
 Local contribution rules and release policies remain authoritative. Store completed records with
 their owner; planning alone does not authorize integration, publication, or hosted changes.
@@ -32,5 +34,7 @@ their owner; planning alone does not authorize integration, publication, or host
 [Release evidence]: ../releases/evidence-and-history.md
 [Runbooks]: ../runbooks/README.md
 [Templates]: ../templates/README.md
+[Shared guidance adoption]: adopt-shared-guidance.md
 [Change management]: change-management.md
+[Release playbook]: release.md
 [Consumer scaffolding]: scaffold-consumer-project.md

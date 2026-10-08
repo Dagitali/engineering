@@ -19,6 +19,12 @@ versions, fixtures, and its applicable quality gate.
 
 ## Local Validation
 
+For each changed boundary, identify its contract and select positive, negative, and boundary
+evidence where useful. Run focused checks first, then the project’s applicable broader gate. Keep
+fixtures deterministic and sanitized; do not introduce credentials or external operations merely to
+exercise a local contract. Record skipped checks and limitations alongside results.
+
+
 - [Python testing]: Deterministic tests, compatibility evidence, and clean artifact installation.
 - [Infrastructure testing]: Synthesis, property assertions, and resource-change review.
 - [Automation contracts]: Workflow/action interfaces, fixtures, and evidence limits.

@@ -19,7 +19,8 @@ Maintainer Notes
 ## Document Scope
 
 Maintain reusable practices and blank templates here. Product-specific contracts, completed records,
-and private evidence belong with their owners.
+and private evidence belong with their owners. This collection’s own release history stays in its
+[release archive].
 
 ## Start Here
 
@@ -42,6 +43,7 @@ Use the [template index] for reusable forms, [architecture index] for decision r
 [repository overview]: ../README.md
 [release policy]: ../RELEASE-POLICY.md
 [architecture index]: ../architecture/README.md
+[release archive]: ../releases/history/README.md
 [template index]: ../templates/README.md
 [adoption tutorial]: adopt-markdown-check.md
 [maintenance guidance]: maintenance.md
