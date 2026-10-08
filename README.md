@@ -30,6 +30,7 @@ release policy, and hosted settings.
 - [Automation]
 - [Templates]
 - [Source notices]
+- [Reference library]
 
 ## Adoption
 
@@ -43,6 +44,9 @@ Read the [retained notices][Source notices] for applicable material terms; hosti
 establish a new license.
 
 ## Topic Guides
+
+Browse the [development index], [testing index], and [release index] for guidance grouped by task.
+Use the [adoption tutorial] to try a local Markdown check with disposable files.
 
 - [Python](languages/python.md) and [Swift](languages/swift.md)
 - [Python testing](testing/python.md), [infrastructure testing](testing/infrastructure.md),
@@ -78,11 +82,16 @@ index] for bounded operational procedures and the [playbook index] for change pl
 [contributor guide]: CONTRIBUTING.md
 [validation procedure]: CONTRIBUTING.md#validation
 [Source notices]: NOTICES.md
+[Reference library]: REFERENCES.md
 [Automation]: automation/README.md
+[development index]: development/README.md
 [Development workflow]: development/agent-assisted-workflow.md
+[adoption tutorial]: documentation/adopt-markdown-check.md
 [Documentation maintenance]: documentation/maintenance.md
 [Branch protection]: governance/branch-protection.md
 [playbook index]: playbooks/README.md
 [Change management]: playbooks/change-management.md
+[release index]: releases/README.md
 [runbook index]: runbooks/README.md
 [Templates]: templates/README.md
+[testing index]: testing/README.md
