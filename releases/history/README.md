@@ -6,6 +6,8 @@ Responsibilities
 - Maintain engineering release history for this repository.
 
 Maintainer Notes
+- Index records newest first and distinguish candidates from tagged revisions.
+- Preserve recorded outcomes and disclose evidence gaps.
 - Keep shared guidance independent of any originating project.
 -->
 
