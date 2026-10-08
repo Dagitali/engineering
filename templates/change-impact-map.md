@@ -21,4 +21,5 @@ review scope, not another implementation specification.
 | Release behavior | | | | | |
 
 Review compatibility, failure behavior, privacy, accessibility, migration, retention, permissions,
-resource replacement, availability, and cost where applicable. Preserve intentional consumer differences.
+resource replacement, availability, and cost where applicable. Preserve intentional consumer
+differences.

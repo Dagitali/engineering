@@ -21,5 +21,6 @@ Complete for the consuming project. Keep completed candidate records and product
 | Any deferred check: owner, date, accepted risk, tester guidance and completion milestone | |
 | Public-release gates remain separate; waiver is not a pass | |
 
-Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason;
-a blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted storage.
+Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason; a
+blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted
+storage.

@@ -8,7 +8,8 @@ Maintainer Notes
 
 # Infrastructure Pull Request Template
 
-Copy to the consuming project's supported PR template location and replace instructions with local checks.
+Copy to the consuming project's supported PR template location and replace instructions with local
+checks.
 
 ## Summary and Scope
 
@@ -16,13 +17,13 @@ Copy to the consuming project's supported PR template location and replace instr
 
 ## Compatibility and Infrastructure
 
-`<Defaults, resources, logical identity/replacement, IAM/public access, retention, TLS/DNS, availability,
-cost, consumer ownership, migration, and rollback>`.
+`<Defaults, resources, logical identity/replacement, IAM/public access, retention, TLS/DNS,
+availability, cost, consumer ownership, migration, and rollback>`.
 
 ## Validation
 
-`<Exact revision, commands/results, synthesis inspection, packaging/install checks, local versus hosted,
-failed/skipped checks and reasons>`.
+`<Exact revision, commands/results, synthesis inspection, packaging/install checks, local versus
+hosted, failed/skipped checks and reasons>`.
 
 ## Documentation and Delivery
 
@@ -34,4 +35,5 @@ failed/skipped checks and reasons>`.
 - [ ] Artifact and clean-install checks recorded where relevant.
 - [ ] Recovery and outstanding work assigned.
 
-Leave inapplicable items unchecked with N/A and a reason. This template does not authorize deployment.
+Leave inapplicable items unchecked with N/A and a reason. This template does not authorize
+deployment.

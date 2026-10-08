@@ -8,8 +8,8 @@ Maintainer Notes
 
 # Python and Repository Tooling Lessons
 
-Use Symptom → Cause → Fix → Verification for reusable diagnosed failures. Keep project-specific commands
-and historical incident evidence in local learnings and runbooks.
+Use Symptom → Cause → Fix → Verification for reusable diagnosed failures. Keep project-specific
+commands and historical incident evidence in local learnings and runbooks.
 
 | Symptom | Cause to investigate | Correction and verification |
 | --- | --- | --- |
@@ -21,5 +21,5 @@ and historical incident evidence in local learnings and runbooks.
 | Historical tag fails changelog validation | Tagged tree lacks the matching dated entry | Preserve tag; prepare reviewed corrected release rather than retagging |
 | Documentation promises the wrong behavior | Policy was copied from another project | Trace canonical sources and retain purposeful consumer differences |
 
-A passing checker proves only its implemented scope. Local tests do not establish hosted enforcement or
-publication. Use the [incident runbook](../runbooks/repository-ci-incident.md) for recovery.
+A passing checker proves only its implemented scope. Local tests do not establish hosted enforcement
+or publication. Use the [incident runbook](../runbooks/repository-ci-incident.md) for recovery.

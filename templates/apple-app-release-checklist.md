@@ -22,5 +22,6 @@ Complete for the consuming project. Keep completed candidate records and product
 | TestFlight tester access, smoke checks and truthful beta copy | |
 | Authorized submission/release state, rollback/support owner and post-release follow-up | |
 
-Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason;
-a blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted storage.
+Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason; a
+blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted
+storage.

@@ -19,9 +19,10 @@ Copy into the consuming repository as `AGENTS.md`; replace fields and remove ina
 
 ## Operating Model
 
-Read applicable instructions and inspect the working tree before editing. Preserve unrelated and staged
-work. Trace claims to current source and tests. Bound the change and its side effects; keep edits focused.
-Repository work does not implicitly authorize commits, tags, publication, deployment, or hosted administration.
+Read applicable instructions and inspect the working tree before editing. Preserve unrelated and
+staged work. Trace claims to current source and tests. Bound the change and its side effects; keep
+edits focused. Repository work does not implicitly authorize commits, tags, publication, deployment,
+or hosted administration.
 
 ## Validation and Documentation
 
@@ -29,8 +30,9 @@ Repository work does not implicitly authorize commits, tags, publication, deploy
 | --- | --- | --- | --- |
 | `<boundary>` | `<commands>` | `<command>` | `<paths>` |
 
-Record local versus hosted evidence separately. Report changed files, failed/skipped checks and reasons,
-compatibility and migration effects, and unresolved work. Keep confidential diagnostics out of public prose.
+Record local versus hosted evidence separately. Report changed files, failed/skipped checks and
+reasons, compatibility and migration effects, and unresolved work. Keep confidential diagnostics out
+of public prose.
 
 ## Project Conventions
 

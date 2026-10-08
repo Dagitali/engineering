@@ -20,5 +20,6 @@ Complete for the consuming project. Keep completed candidate records and product
 | Containment/fallback, retry/backoff, recovery checks and operational authority | |
 | Evidence, owner, next review and unresolved third-party commitments | |
 
-Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason;
-a blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted storage.
+Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason; a
+blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted
+storage.

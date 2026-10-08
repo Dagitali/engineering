@@ -19,5 +19,6 @@ Complete for the consuming project. Keep completed candidate records and product
 | Required product-page screenshots and accessibility/contrast | |
 | Source/license metadata and final Xcode/App Store Connect verification | |
 
-Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason;
-a blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted storage.
+Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason; a
+blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted
+storage.

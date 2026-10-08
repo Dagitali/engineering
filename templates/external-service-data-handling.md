@@ -21,5 +21,6 @@ Complete for the consuming project. Keep completed candidate records and product
 | Diagnostics, logging, availability, rate limits, retry/cancellation | |
 | Privacy/public-copy alignment, owner, evidence and review date | |
 
-Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason;
-a blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted storage.
+Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason; a
+blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted
+storage.

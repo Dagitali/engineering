@@ -9,8 +9,9 @@ Maintainer Notes
 # Engineering Templates
 
 Choose a blank form, replace project-specific fields, and retain completed records with their owner.
-Installing a Copilot template requires the consuming repository's supported local path and actual globs.
-Templates do not change a project's license, support commitments, branching model, or operational authority.
+Installing a Copilot template requires the consuming repository's supported local path and actual
+globs. Templates do not change a project's license, support commitments, branching model, or
+operational authority.
 
 - [Repository Agent Instructions Template](AGENTS.md)
 - [App Store Metadata](app-store-metadata.md)

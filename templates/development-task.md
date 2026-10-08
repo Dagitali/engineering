@@ -8,7 +8,8 @@ Maintainer Notes
 
 # Development Task Templates
 
-Replace fields and remove irrelevant constraints. One brief should produce one coherent reviewable result.
+Replace fields and remove irrelevant constraints. One brief should produce one coherent reviewable
+result.
 
 ## Implement or Refactor
 

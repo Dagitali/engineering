@@ -21,5 +21,6 @@ Complete for the consuming project. Keep completed candidate records and product
 | Conflicts, deduplication, migration and user-controlled deletion | |
 | Real-account evidence, observed timing, failed/skipped checks and production decision | |
 
-Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason;
-a blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted storage.
+Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason; a
+blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted
+storage.

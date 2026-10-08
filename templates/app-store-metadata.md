@@ -21,5 +21,6 @@ Complete for the consuming project. Keep completed candidate records and product
 | Screenshots, preview assets, licensing and accessibility | |
 | TestFlight notes, review contact/instructions and submission evidence | |
 
-Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason;
-a blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted storage.
+Record exact evidence, dates, passed/failed/skipped checks and reasons. Use N/A with a reason; a
+blank or waiver is not a pass. Keep private identifiers and sensitive diagnostics in restricted
+storage.

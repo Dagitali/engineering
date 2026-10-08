@@ -8,12 +8,15 @@ Maintainer Notes
 
 # Repository Copilot Instructions Template
 
-Copy to `.github/copilot-instructions.md` in the consuming repository. Replace path fields before use.
+Copy to `.github/copilot-instructions.md` in the consuming repository. Replace path fields before
+use.
 
-Follow `<local AGENTS.md>` and `<local contribution guide>`. Read relevant source, tests, configuration,
-and maintained feature documentation before changing behavior. Preserve unrelated work and public contracts.
-Use `<local validation guide>` and report local versus hosted results separately. Follow `<release policy>`
-for release work; these instructions do not authorize external operations.
+Follow `<local AGENTS.md>` and `<local contribution guide>`. Read relevant source, tests,
+configuration, and maintained feature documentation before changing behavior. Preserve unrelated
+work and public contracts. Use `<local validation guide>` and report local versus hosted results
+separately. Follow `<release policy>` for release work; these instructions do not authorize external
+operations.
 
 `<Add project-specific data, resource, privacy, read-only, compatibility, and platform boundaries>`.
-Keep local instructions sufficient for operation; a central URL is navigation, not automatic policy inheritance.
+Keep local instructions sufficient for operation; a central URL is navigation, not automatic policy
+inheritance.

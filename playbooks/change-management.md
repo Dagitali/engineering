@@ -11,6 +11,10 @@ Maintainer Notes
 Take a bounded requirement through implementation, review, and verified handoff. Choose evidence by
 the changed boundary, preserving each project's contracts and review policy.
 
+- [Classify the Change](#classify-the-change)
+- [Define Supported Behavior](#define-supported-behavior)
+- [Synchronize and Release](#synchronize-and-release)
+
 ## Classify the Change
 
 | Boundary | Review | Evidence |
@@ -26,15 +30,16 @@ A change spanning boundaries needs evidence for each affected boundary.
 ## Define Supported Behavior
 
 Before adding a component, state its demonstrated need, single responsibility, owner, entry point,
-supported configuration, failure behavior, tests, and rollback. Avoid speculative APIs and placeholder
-services. Keep reusable components separate from consumer identity, account configuration, content,
-monitoring, budgets, and product-specific policy.
+supported configuration, failure behavior, tests, and rollback. Avoid speculative APIs and
+placeholder services. Keep reusable components separate from consumer identity, account
+configuration, content, monitoring, budgets, and product-specific policy.
 
 ## Synchronize and Release
 
 Use the [interface checklist](../interfaces/evolution-checklist.md), project impact map, and
-[documentation maintenance](../documentation/maintenance.md). Update changed claims during implementation.
-Record material alternatives in an architecture decision and reusable diagnosed failures in a runbook.
+[documentation maintenance](../documentation/maintenance.md). Update changed claims during
+implementation. Record material alternatives in an architecture decision and reusable diagnosed
+failures in a runbook.
 
 Use the project's release procedure to assess the complete diff, compatibility, migration, artifact
 identity, and recovery. Report local checks, hosted checks, and publication as separate outcomes.

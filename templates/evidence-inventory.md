@@ -8,9 +8,9 @@ Maintainer Notes
 
 # Evidence Inventory Template
 
-Use for a material technical, compatibility, quantitative, or release claim requiring a fuller evidence
-record. This is not a mandatory gate for every documentation edit. Keep confidential completed records
-in access-controlled storage; this repository retains the blank form.
+Use for a material technical, compatibility, quantitative, or release claim requiring a fuller
+evidence record. This is not a mandatory gate for every documentation edit. Keep confidential
+completed records in access-controlled storage; this repository retains the blank form.
 
 ## Candidate Claim
 

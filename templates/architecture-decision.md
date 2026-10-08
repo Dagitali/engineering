@@ -8,7 +8,8 @@ Maintainer Notes
 
 # Architecture Decision Template
 
-Use a stable project identifier and descriptive title. Keep the completed record beside the implementation.
+Use a stable project identifier and descriptive title. Keep the completed record beside the
+implementation.
 
 ## Status and Ownership
 

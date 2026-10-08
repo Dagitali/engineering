@@ -8,10 +8,14 @@ Maintainer Notes
 
 # Retained Material Notices
 
-The copyright and permission notices below are retained for material in this collection. The collection
-has no new repository-wide license. Material supplied under the permission notice retains those terms;
-other material retains the reserved-rights notice. Access does not grant a general redistribution license.
-Resolve applicable terms with the owner before redistributing material or accepting outside contributions.
+The copyright and permission notices below are retained for material in this collection. The
+collection has no new repository-wide license. Material supplied under the permission notice retains
+those terms; other material retains the reserved-rights notice. Access does not grant a general
+redistribution license. Resolve applicable terms with the owner before redistributing material or
+accepting outside contributions.
+
+- [Permission Notice](#permission-notice)
+- [Reserved Rights Notice](#reserved-rights-notice)
 
 ## Permission Notice
 

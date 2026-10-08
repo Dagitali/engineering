@@ -28,9 +28,10 @@ Use shared guidance alongside the project's local instructions. Replace template
 installing a template in a consuming repository. Local commands, supported versions, branch routes,
 permissions, and product guarantees remain authoritative in that project.
 
-This repository contains reusable practice and blank templates. Project catalogs, migration inventories,
-completed operational records, and product-specific contracts belong to their owners. Read the
-[retained notices](NOTICES.md) for applicable material terms; hosting does not establish a new license.
+This repository contains reusable practice and blank templates. Project catalogs, migration
+inventories, completed operational records, and product-specific contracts belong to their owners.
+Read the [retained notices](NOTICES.md) for applicable material terms; hosting does not establish a
+new license.
 
 ## Topic Guides
 

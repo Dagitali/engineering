@@ -11,8 +11,8 @@ Maintainer Notes
 Diagnose repository checks, CI, artifacts, and release failures from the exact failing revision.
 Project runbooks supply commands and component-specific recovery steps.
 
-1. Identify workflow, job, step, commit/tag, artifact, and the first meaningful error. A failed wrapper
-   target may only report a downstream symptom.
+1. Identify workflow, job, step, commit/tag, artifact, and the first meaningful error. A failed
+   wrapper target may only report a downstream symptom.
 2. Inspect current checkout and working-tree state before reproducing. Separate historical failure
    evidence from a successful run of today's branch.
 3. Reproduce with the narrowest safe local diagnostic. Distinguish tool/environment failures from
@@ -23,7 +23,7 @@ Project runbooks supply commands and component-specific recovery steps.
 6. Record cause, impact, correction, evidence, skipped checks, and outstanding work.
 
 Check dependency lower bounds against compatibility fixtures; source tests against clean artifact
-installation; tag-derived versions against the tagged tree and dated changelog. Preserve immutable tags
-and prepare a corrected release when appropriate. A workflow declaration does not establish hosted
-publication, environment reviewers, or branch protection. Reruns, settings changes, secret access,
-publication, and external cleanup need separate authority.
+installation; tag-derived versions against the tagged tree and dated changelog. Preserve immutable
+tags and prepare a corrected release when appropriate. A workflow declaration does not establish
+hosted publication, environment reviewers, or branch protection. Reruns, settings changes, secret
+access, publication, and external cleanup need separate authority.

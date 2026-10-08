@@ -8,7 +8,8 @@ Maintainer Notes
 
 # Shared Automation Adoption Template
 
-Complete in the consumer's maintainer records. Keep private hosted settings and vulnerability details restricted.
+Complete in the consumer's maintainer records. Keep private hosted settings and vulnerability
+details restricted.
 
 | Field | Record |
 | --- | --- |
@@ -25,5 +26,6 @@ Complete in the consumer's maintainer records. Keep private hosted settings and 
 | Passed, failed, skipped, inaccessible, outstanding evidence | |
 | Follow-up owner and next review | |
 
-Mark unsupported or unverified behavior explicitly. Adoption of defaults, copied starters, and shared
-references are distinct operations. A checklist does not authorize hosted writes or consumer migration.
+Mark unsupported or unverified behavior explicitly. Adoption of defaults, copied starters, and
+shared references are distinct operations. A checklist does not authorize hosted writes or consumer
+migration.

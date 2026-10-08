@@ -8,9 +8,13 @@ Maintainer Notes
 
 # Documentation Maintenance
 
-Maintain one authoritative source for each claim and link to it from related guides. Project-specific
-ownership maps stay beside the implementation. Product contracts and historical release records
-remain with their projects.
+Maintain one authoritative source for each claim and link to it from related guides.
+Project-specific ownership maps stay beside the implementation. Product contracts and historical
+release records remain with their projects.
+
+- [Sources of Truth](#sources-of-truth)
+- [Change Procedure](#change-procedure)
+- [Verification](#verification)
 
 ## Sources of Truth
 
@@ -26,15 +30,16 @@ remain with their projects.
 
 ## Change Procedure
 
-Search for the changed name or claim, inspect its canonical evidence, and update the smallest complete
-set of maintained documents. Keep local ownership maps accurate. Preserve existing anchors referenced
-by other guides; retain a local adapter when centralizing a procedure. Never rewrite historical
-outcomes to imply current verification.
+Search for the changed name or claim, inspect its canonical evidence, and update the smallest
+complete set of maintained documents. Keep local ownership maps accurate. Preserve existing anchors
+referenced by other guides; retain a local adapter when centralizing a procedure. Never rewrite
+historical outcomes to imply current verification.
 
 Use descriptive reference labels, grouped at the bottom and sorted case-sensitively by destination,
-then label. Prefer relative links within a repository. Keep official names, useful tables of contents,
-and attribution. Wrap file-header comment lines at 79 characters; preserve language directives and URLs.
-Do not edit generated documentation, caches, distributions, or lockfiles as handwritten prose.
+then label. Prefer relative links within a repository. Keep official names, useful tables of
+contents, and attribution. Wrap file-header comment lines at 79 characters; preserve language
+directives and URLs. Do not edit generated documentation, caches, distributions, or lockfiles as
+handwritten prose.
 
 ## Verification
 
@@ -43,9 +48,9 @@ labels, images, external destinations, and factual claims. Run the documentation
 sources or included documents change. A local link check does not establish external availability,
 hosted enforcement, clean installation, or publication.
 
-Use the [evidence inventory](../templates/evidence-inventory.md) for material claims requiring a fuller
-record, not as a mandatory gate for every small edit. Store confidential completed records in an
-access-controlled system; public statements link only to evidence their audience may inspect.
+Use the [evidence inventory](../templates/evidence-inventory.md) for material claims requiring a
+fuller record, not as a mandatory gate for every small edit. Store confidential completed records in
+an access-controlled system; public statements link only to evidence their audience may inspect.
 
-A documentation task does not authorize changing implementation or external state to make a claim true.
-Report discrepancies requiring a separate implementation decision.
+A documentation task does not authorize changing implementation or external state to make a claim
+true. Report discrepancies requiring a separate implementation decision.

@@ -12,24 +12,31 @@ Use design discussion to clarify a decision and repository inspection to establi
 This process applies regardless of the assistant or editor. The project's local instructions define
 its contracts, commands, and safety boundaries.
 
+- [Explore the Decision](#explore-the-decision)
+- [Ground the Work](#ground-the-work)
+- [Prepare the Handoff](#prepare-the-handoff)
+- [Execute and Verify](#execute-and-verify)
+
 ## Explore the Decision
 
 Identify the outcome, alternatives, constraints, non-goals, and observable acceptance criteria.
 Consider compatibility, privacy, accessibility, failure behavior, maintenance cost, and migration.
-Separate accepted requirements from unresolved suggestions. A conversation is not implementation evidence.
+Separate accepted requirements from unresolved suggestions. A conversation is not implementation
+evidence.
 
 ## Ground the Work
 
 Read applicable instructions, current source, tests, configuration, and maintained documentation.
-Inspect the working tree and preserve unrelated or staged changes. Trace commands to their definitions,
-supported versions to configuration, and automation claims to workflow declarations and hosted evidence.
-Resolve conflicts before expanding scope. Diagnosis does not authorize an implementation change.
+Inspect the working tree and preserve unrelated or staged changes. Trace commands to their
+definitions, supported versions to configuration, and automation claims to workflow declarations and
+hosted evidence. Resolve conflicts before expanding scope. Diagnosis does not authorize an
+implementation change.
 
 ## Prepare the Handoff
 
 Record the desired outcome, relevant paths, observed behavior, alternatives, constraints, acceptance
-criteria, and validation plan. Use the [task template](../templates/development-task.md). Keep private
-source, credentials, and confidential diagnostics out of public briefs.
+criteria, and validation plan. Use the [task template](../templates/development-task.md). Keep
+private source, credentials, and confidential diagnostics out of public briefs.
 
 ## Execute and Verify
 

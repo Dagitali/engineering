@@ -12,7 +12,8 @@ Copy into the consuming project's PR template location and retain its own policy
 
 ## Summary and Review Focus
 
-`<User-visible problem, behavior, affected platforms/features, target release, risky files, related issue>`.
+`<User-visible problem, behavior, affected platforms/features, target release, risky files, related
+issue>`.
 
 ## Validation and UI Evidence
 
