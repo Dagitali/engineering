@@ -16,9 +16,12 @@ projects. Each project retains its own executable configuration, licensing, supp
 release policy, and hosted settings.
 
 - [Start Here](#start-here)
+- [Goals and Non-Goals](#goals-and-non-goals)
 - [Adoption](#adoption)
 - [Topic Guides](#topic-guides)
+- [Repository Map](#repository-map)
 - [Contributing](#contributing)
+- [Support and Community](#support-and-community)
 - [License](#license)
 - [Validation and Scope](#validation-and-scope)
 
@@ -32,6 +35,12 @@ release policy, and hosted settings.
 - [Templates]
 - [Source notices]
 - [Reference library]
+
+## Goals and Non-Goals
+
+Provide reusable engineering practices, review guidance, and blank templates. Keep guidance grounded
+in evidence and leave executable configuration, product policy, and operational authority with each
+consuming project. This repository does not deploy products or enforce hosted settings.
 
 ## Adoption
 
@@ -67,10 +76,27 @@ scaffolding] to plan a minimal project baseline and its readiness review.
 - [CDK change safety](infrastructure/cdk-change-safety.md)
 - [Tooling lessons](learnings/python-and-repository-tooling.md)
 
+## Repository Map
+
+| Area | Purpose |
+| --- | --- |
+| [Documentation index] | Maintenance and adoption procedures |
+| [Architecture index] | Decision recording and impact planning |
+| [Templates] | Blank forms and instruction templates |
+| [development index] and [testing index] | Planning and verification |
+| [release index] | Consumer release guidance |
+| [Repository release policy] and [Changelog] | This collection’s versioning and history |
+| [Automation], [runbook index], and [playbook index] | Adoption, diagnosis, and change planning |
+
 ## Contributing
 
 Read the [contributor guide] and [repository instructions] before editing. Keep reusable guidance
 separate from project-owned contracts, and keep source templates blank.
+
+## Support and Community
+
+Use the [Support guide] for help and maintenance boundaries, the [Security policy] for sensitive
+findings, and the [Code of Conduct] for participation standards and conduct concerns.
 
 ## License
 
@@ -86,15 +112,22 @@ do not establish external availability, hosted enforcement, or publication. Brow
 index] for bounded operational procedures and the [playbook index] for change planning.
 
 [repository instructions]: AGENTS.md
+[Changelog]: CHANGELOG.md
+[Code of Conduct]: CODE_OF_CONDUCT.md
 [contributor guide]: CONTRIBUTING.md
 [validation procedure]: CONTRIBUTING.md#validation
 [MIT License]: LICENSE
 [NOTICE]: NOTICE
 [Source notices]: NOTICES.md
 [Reference library]: REFERENCES.md
+[Repository release policy]: RELEASE-POLICY.md
+[Security policy]: SECURITY.md
+[Support guide]: SUPPORT.md
+[Architecture index]: architecture/README.md
 [Automation]: automation/README.md
 [development index]: development/README.md
 [Development workflow]: development/agent-assisted-workflow.md
+[Documentation index]: documentation/README.md
 [adoption tutorial]: documentation/adopt-markdown-check.md
 [Documentation maintenance]: documentation/maintenance.md
 [Branch protection]: governance/branch-protection.md
