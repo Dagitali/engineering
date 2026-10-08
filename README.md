@@ -46,7 +46,8 @@ establish a new license.
 ## Topic Guides
 
 Browse the [development index], [testing index], and [release index] for guidance grouped by task.
-Use the [adoption tutorial] to try a local Markdown check with disposable files.
+Use the [adoption tutorial] to try a local Markdown check with disposable files. Use [consumer
+scaffolding] to plan a minimal project baseline and its readiness review.
 
 - [Python](languages/python.md) and [Swift](languages/swift.md)
 - [Python testing](testing/python.md), [infrastructure testing](testing/infrastructure.md),
@@ -91,6 +92,7 @@ index] for bounded operational procedures and the [playbook index] for change pl
 [Branch protection]: governance/branch-protection.md
 [playbook index]: playbooks/README.md
 [Change management]: playbooks/change-management.md
+[consumer scaffolding]: playbooks/scaffold-consumer-project.md
 [release index]: releases/README.md
 [runbook index]: runbooks/README.md
 [Templates]: templates/README.md

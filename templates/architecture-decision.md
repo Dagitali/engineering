@@ -17,6 +17,7 @@ implementation.
 - [Status and Ownership](#status-and-ownership)
 - [Context](#context)
 - [Decision](#decision)
+- [Implementation Status](#implementation-status)
 - [Alternatives Considered](#alternatives-considered)
 - [Consequences](#consequences)
 - [Verification and References](#verification-and-references)
@@ -32,6 +33,13 @@ implementation.
 ## Decision
 
 `<Chosen behavior and boundaries>`.
+
+## Implementation Status
+
+`<Implemented scope and revision, pending work or consumer migration, matching verification
+evidence, unresolved limitations, owner, and next review>`. An accepted decision does not establish
+completed implementation. Update this status with dated evidence while preserving the original
+decision and its historical context.
 
 ## Alternatives Considered
 

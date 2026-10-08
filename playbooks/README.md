@@ -15,6 +15,7 @@ Use playbooks to plan changes spanning compatibility, validation, documentation,
 Supporting guidance remains at its canonical path:
 
 - [Change management]: Define supported behavior and coordinate verification and release guidance.
+- [Consumer scaffolding]: Create a minimal baseline and review adoption and production readiness.
 - [Agent assisted workflow]: Ground decisions in evidence and prepare bounded implementation tasks.
 - [Documentation maintenance]: Identify authoritative sources and update affected explanations.
 - [Interface evolution]: Review compatibility and migration at public boundaries.
@@ -32,3 +33,4 @@ their owner; planning alone does not authorize integration, publication, or host
 [Runbooks]: ../runbooks/README.md
 [Templates]: ../templates/README.md
 [Change management]: change-management.md
+[Consumer scaffolding]: scaffold-consumer-project.md
