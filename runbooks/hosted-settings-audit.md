@@ -13,6 +13,8 @@ inventory, expected contexts, reviewed tool revision, and exact invocation in th
 project's configuration. The selected audit tool's maintained reference owns its schema and exact
 result names.
 
+- [Interpret Results](#interpret-results)
+
 ## Interpret Results
 
 - Confirmed match: an observable expectation matches; this does not prove every enforcement path.

@@ -11,6 +11,12 @@ Maintainer Notes
 Replace fields and remove irrelevant constraints. One brief should produce one coherent reviewable
 result.
 
+- [Implement or Refactor](#implement-or-refactor)
+- [Architecture or Interface Review](#architecture-or-interface-review)
+- [Documentation Synchronization](#documentation-synchronization)
+- [CI Maintenance](#ci-maintenance)
+- [Incident Diagnosis](#incident-diagnosis)
+
 ## Implement or Refactor
 
 ```text

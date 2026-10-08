@@ -10,6 +10,11 @@ Maintainer Notes
 
 Copy into the consuming project's PR template location and retain its own policy and release gates.
 
+- [Summary and Review Focus](#summary-and-review-focus)
+- [Validation and UI Evidence](#validation-and-ui-evidence)
+- [Privacy and Persistence](#privacy-and-persistence)
+- [Distribution and Documentation](#distribution-and-documentation)
+
 ## Summary and Review Focus
 
 `<User-visible problem, behavior, affected platforms/features, target release, risky files, related

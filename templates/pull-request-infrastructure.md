@@ -11,6 +11,11 @@ Maintainer Notes
 Copy to the consuming project's supported PR template location and replace instructions with local
 checks.
 
+- [Summary and Scope](#summary-and-scope)
+- [Compatibility and Infrastructure](#compatibility-and-infrastructure)
+- [Validation](#validation)
+- [Documentation and Delivery](#documentation-and-delivery)
+
 ## Summary and Scope
 
 `<Problem, resulting behavior, affected interfaces, related issue, target branch>`.

@@ -10,6 +10,8 @@ Maintainer Notes
 
 Complete for the consuming project. Keep completed candidate records and product contracts locally.
 
+- [Verification Record](#verification-record)
+
 ## Verification Record
 
 | Field | Record |

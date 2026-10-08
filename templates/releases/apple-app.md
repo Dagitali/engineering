@@ -10,6 +10,13 @@ Maintainer Notes
 
 Replace fields with actual outcomes. Retain completed records in the released project's archive.
 
+- [Candidate and Highlights](#candidate-and-highlights)
+- [Change Scope](#change-scope)
+- [Compatibility and Support](#compatibility-and-support)
+- [Validation and Artifacts](#validation-and-artifacts)
+- [Publication and Rollback](#publication-and-rollback)
+- [Follow Up](#follow-up)
+
 ## Candidate and Highlights
 
 `<Project, version/build, status, verified event date/timezone, evidence identifying candidate,

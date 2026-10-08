@@ -10,6 +10,10 @@ Maintainer Notes
 
 Complete prerequisites and commands from the consuming repository's actual configuration.
 
+- [Prerequisites](#prerequisites)
+- [First Local Session](#first-local-session)
+- [Contribution](#contribution)
+
 ## Prerequisites
 
 `<Git, shell/build tools, supported runtime authority, platform requirements, install/network

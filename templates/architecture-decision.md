@@ -11,6 +11,13 @@ Maintainer Notes
 Use a stable project identifier and descriptive title. Keep the completed record beside the
 implementation.
 
+- [Status and Ownership](#status-and-ownership)
+- [Context](#context)
+- [Decision](#decision)
+- [Alternatives Considered](#alternatives-considered)
+- [Consequences](#consequences)
+- [Verification and References](#verification-and-references)
+
 ## Status and Ownership
 
 `<Proposed, accepted, superseded; owner; decision date; replacement link if any>`.
