@@ -11,27 +11,63 @@ Maintainer Notes
 
 # Engineering Release History
 
+This archive indexes this collection’s release records, newest first. Use the [changelog] for
+concise changes and the [release playbook] for preparation and closeout.
+
 - [Records](#records)
-- [Evidence Boundaries](#evidence-boundaries)
+- [Reading the Records](#reading-the-records)
+  - [Evidence Boundaries](#evidence-boundaries)
+  - [Release Operations](#release-operations)
 - [Maintaining the Archive](#maintaining-the-archive)
 
 ## Records
 
-- [v0.1.0]: Initial project customization and documentation normalization.
-- [v0.0.0]: Initial collection.
+- [v0.1.0] — 2026-10-08: Initial project customization and documentation normalization.
+- [v0.0.0] — 2026-10-08: Initial collection.
 
-## Evidence Boundaries
+## Reading the Records
+
+The changelog owns concise highlights; versioned records own scope, compatibility, support,
+validation, recovery, and follow-up. A prepared candidate, existing tag, published release, and
+consumer rollout are distinct states. Link to canonical policy rather than copying its full text.
+
+### Evidence Boundaries
 
 These records describe this repository’s existing local tags. They do not establish hosted
 validation, release publication, or consumer rollout. Later inspection is not contemporaneous
 release evidence.
+
+Dates shown for existing records come from annotated local tag metadata in America/New_York. They
+are not verified publication dates. Preserve preparation and observation dates separately;
+retrospective records do not change the original tagged tree.
+
+### Release Operations
+
+The [release policy] owns this collection’s validation and publication boundaries. The [release
+playbook] provides a reusable sequence. Neither records nor policy files authorize commits, tags,
+pushes, publication, or hosted changes. Preserve tag identity and prepare reviewed follow-up fixes.
 
 ## Maintaining the Archive
 
 Add a record for each reviewed candidate or release, distinguish its state, and preserve immutable
 tag identities. Follow the [release policy] and [evidence guide].
 
+1. Create `releases/history/vMAJOR.MINOR.PATCH.md` for an agreed candidate. Mark an untagged
+   candidate as planned and state its preparation date, or use undated when unknown.
+2. Reconcile highlights and scope with the candidate tree and changelog. Retain applicable
+   compatibility, support, validation, recovery, and follow-up sections.
+3. Record actual checks, failures, skipped checks, and evidence gaps against the exact candidate. Do
+   not transfer today’s successful checks to a historical tag.
+4. Index records newest first with version, explicit state, date basis, and concise summary.
+5. Follow the [validation procedure] for Markdown checks and complete the separate release-policy
+   gates before authorized delivery.
+
+Keep changes after the latest tag under Unreleased until assigned to a reviewed release.
+
+[changelog]: ../../CHANGELOG.md
+[validation procedure]: ../../CONTRIBUTING.md#validation
 [release policy]: ../../RELEASE-POLICY.md
+[release playbook]: ../../playbooks/release.md
 [evidence guide]: ../evidence-and-history.md
 [v0.0.0]: v0.0.0.md
 [v0.1.0]: v0.1.0.md
