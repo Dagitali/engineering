@@ -54,14 +54,16 @@ does not establish hosted enforcement or deployed behavior. See the [security po
 
 ## Change Impact and Sources of Truth
 
-Use the [impact template] to trace changed contracts to sources, checks, documentation, and owners.
-Keep component architecture and completed maps with their implementations. The [maintenance guide]
-owns source review; [design guidance] explains reusable-content constraints.
+Use this collection’s [change impact map] for local edits and the blank [impact template] for
+consumer-owned contracts, sources, checks, documentation, and owners. Keep component architecture
+and completed maps with their implementations. The [maintenance guide] owns source review; [design
+guidance] explains reusable-content constraints.
 
 [contribution guidance]: CONTRIBUTING.md#local-setup-and-hooks
 [design guidance]: DESIGN.md
 [repository overview]: README.md
 [security policy]: SECURITY.md
+[change impact map]: architecture/change-impact-map.md
 [Documentation guidance]: documentation/README.md
 [maintenance guide]: documentation/maintenance.md
 [adoption playbook]: playbooks/adopt-shared-guidance.md

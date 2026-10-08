@@ -39,6 +39,21 @@ or hosted enforcement.
 
 ## Related Guidance
 
+Choose a document by its purpose rather than copying another repository’s filenames:
+
+| Document kind | Purpose | Where to start |
+| --- | --- | --- |
+| Tutorial | Learn one bounded task with disposable inputs | [adoption tutorial] |
+| Topic guide | Understand a reusable practice and its limits | [testing index] |
+| Playbook | Plan a change across several boundaries | [playbook index] |
+| Runbook | Diagnose a failure and verify recovery | [runbook index] |
+| Template | Capture project-owned facts in a blank form | [template index] |
+| Policy | Establish this repository’s actual commitments | [contributor guide] and [release policy] |
+| Historical record | Preserve revision-specific outcomes | [release archive] |
+
+Keep links to canonical explanations rather than duplicating a guide to match another layout.
+
+
 Use [configuration contracts] when documenting inputs, defaults, paths, and failure behavior.
 Use the [template index] for reusable forms, [architecture index] for decision recording, and
 [release policy] for changes to this repository.
@@ -49,7 +64,10 @@ Use the [template index] for reusable forms, [architecture index] for decision r
 [release policy]: ../RELEASE-POLICY.md
 [architecture index]: ../architecture/README.md
 [configuration contracts]: ../interfaces/configuration-contracts.md
+[playbook index]: ../playbooks/README.md
 [release archive]: ../releases/history/README.md
+[runbook index]: ../runbooks/README.md
 [template index]: ../templates/README.md
+[testing index]: ../testing/README.md
 [adoption tutorial]: adopt-markdown-check.md
 [maintenance guidance]: maintenance.md

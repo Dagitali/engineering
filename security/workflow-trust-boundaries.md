@@ -44,6 +44,11 @@ certification.
 
 ## Validation Boundaries
 
+Use [dependency consistency] when reviewing manifest and lockfile pairs; static agreement does not
+prove full dependency resolution or safe installation.
+
 The chosen validator's reference owns its configuration schema and limitations. Keep actual workflow
 selection, applicable manifest/lock pairs, exceptions, and installed tool revision in the consuming
 project.
+
+[dependency consistency]: ../testing/dependency-consistency.md
