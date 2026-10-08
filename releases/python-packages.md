@@ -18,8 +18,9 @@ both wheel and source distribution. Validate content and metadata, run distribut
 install each format in a clean environment without source-path leakage. Use a fresh output directory
 if older artifacts would mix versions. A development fallback version is not release evidence.
 
-Prepare a matching dated changelog and [release notes](../templates/releases/python-package.md).
-Record completed/skipped tests, support boundaries, artifact identity, migration, and rollback.
-Follow local integration/tag policy; keep tags immutable. PyPI, GitHub Releases, and other
-publication destinations are project-specific opt-ins, not implied by a successful build or this
-guide.
+Prepare a matching dated changelog and [release notes]. Record completed/skipped tests, support
+boundaries, artifact identity, migration, and rollback. Follow local integration/tag policy; keep
+tags immutable. PyPI, GitHub Releases, and other publication destinations are project-specific
+opt-ins, not implied by a successful build or this guide.
+
+[release notes]: ../templates/releases/python-package.md

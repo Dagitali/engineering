@@ -29,5 +29,8 @@ logs. For persisted models, preserve historical schemas and introduce explicit m
 CloudKit-compatible relationships and conflict behavior require project-specific tests and manual
 device evidence.
 
-Use the [Swift instructions template](../templates/copilot/swift.instructions.md) and
-[testing template](../templates/copilot/swift-testing.instructions.md), installing project-specific globs locally.
+Use the [Swift instructions template] and [testing template], installing project-specific globs
+locally.
+
+[testing template]: ../templates/copilot/swift-testing.instructions.md
+[Swift instructions template]: ../templates/copilot/swift.instructions.md

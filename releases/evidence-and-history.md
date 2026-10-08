@@ -22,5 +22,9 @@ clarification when needed rather than implying later verification was available 
 Keep immutable tags intact; repair through a reviewed correction or new release. Link to artifact
 integrity and identity evidence without putting sensitive operational details in public records.
 
-Use platform-specific [Python](python-packages.md), [Apple](apple-apps.md), and [shared
-automation](shared-automation.md) guidance. Merging documentation is not proof of publication.
+Use platform-specific [Python], [Apple], and [shared automation] guidance. Merging documentation is
+not proof of publication.
+
+[Apple]: apple-apps.md
+[Python]: python-packages.md
+[shared automation]: shared-automation.md

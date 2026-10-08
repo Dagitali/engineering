@@ -12,15 +12,19 @@ Shared development practices, review procedures, and reusable documentation temp
 projects. Each project retains its own executable configuration, licensing, support commitments,
 release policy, and hosted settings.
 
+- [Start Here](#start-here)
+- [Adoption](#adoption)
+- [Topic Guides](#topic-guides)
+
 ## Start Here
 
-- [Development workflow](development/agent-assisted-workflow.md)
-- [Documentation maintenance](documentation/maintenance.md)
-- [Change management](playbooks/change-management.md)
-- [Branch protection](governance/branch-protection.md)
-- [Automation](automation/README.md)
-- [Templates](templates/README.md)
-- [Source notices](NOTICES.md)
+- [Development workflow]
+- [Documentation maintenance]
+- [Change management]
+- [Branch protection]
+- [Automation]
+- [Templates]
+- [Source notices]
 
 ## Adoption
 
@@ -30,8 +34,8 @@ permissions, and product guarantees remain authoritative in that project.
 
 This repository contains reusable practice and blank templates. Project catalogs, migration
 inventories, completed operational records, and product-specific contracts belong to their owners.
-Read the [retained notices](NOTICES.md) for applicable material terms; hosting does not establish a
-new license.
+Read the [retained notices][Source notices] for applicable material terms; hosting does not
+establish a new license.
 
 ## Topic Guides
 
@@ -52,3 +56,5 @@ new license.
 - [Workflow trust boundaries](security/workflow-trust-boundaries.md)
 - [CDK change safety](infrastructure/cdk-change-safety.md)
 - [Tooling lessons](learnings/python-and-repository-tooling.md)
+
+[Source notices]: NOTICES.md
